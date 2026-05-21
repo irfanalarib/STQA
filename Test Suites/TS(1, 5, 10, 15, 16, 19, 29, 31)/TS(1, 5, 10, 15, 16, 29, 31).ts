@@ -47,20 +47,6 @@
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ffb80f70-6518-4c7f-8d5d-e346c34096fe</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TS1/TC-1.6 Periksa percobaan login sebelum akun diaktifkan</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f7df6f8b-2908-4f60-a5bd-8b318f000e74</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TS1/TC-1.7 Periksa login setelah akun diaktifkan</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>5a98eb29-06ad-467d-bab8-2bb84e1d11b7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
