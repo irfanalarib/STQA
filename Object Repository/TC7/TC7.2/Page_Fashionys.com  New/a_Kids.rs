@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kids</name>
+   <tag></tag>
+   <elementGuidId>2a5e82ad-9913-4dbc-b9c7-bd55afbac58e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.menu-dropdown-icon:nth-child(4) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menu-dropdown-icon ') and (position() = 4)]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Kids&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dfa5b50f-5e5d-41f8-89dc-6136589f81a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>product-category.php?id=3&amp;type=top-category</value>
+      <webElementGuid>fed75967-eac9-4cd8-acc1-087961d16faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kids</value>
+      <webElementGuid>203680f9-a287-4537-8a68-652ac8373aaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e1ef66456ba809626c3546d41682894b</value>
+      <webElementGuid>6f22f530-b364-4154-a112-a87d01845a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menu-dropdown-icon ') and (position() = 4)]/a</value>
+      <webElementGuid>dd05dd57-dda3-4c33-952b-b8c5ba7656e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menu-dropdown-icon ') and (position() = 4)]/a</value>
+      <webElementGuid>982c7b69-6290-422f-8a04-f61e38a8a871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'product-category.php?id=3&amp;type=top-category' and (text() = 'Kids' or . = 'Kids')]</value>
+      <webElementGuid>88014332-0c28-44d5-97f4-55562e988300</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Women</name>
+   <tag></tag>
+   <elementGuidId>8cba1ad7-accd-4557-8d51-c4927d6e3c82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.nav.menu > .deeper:nth-child(2) > a .lbl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav ') and contains(concat(' ', normalize-space(@class), ' '), ' menu ')]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' deeper ') and (position() = 2)]/a//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' lbl ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Women&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f0e785d-ce81-4b03-8e38-7ff9f420651d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl</value>
+      <webElementGuid>39397c40-d101-4a03-9ac8-4742bff53f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Women</value>
+      <webElementGuid>c9ba2500-744d-4ec6-b253-a33564dd04d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4f93dbc684122d56a92bcdf8a4c3d48a</value>
+      <webElementGuid>f7748dbe-74ff-4f35-a1bd-da9087e97330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav ') and contains(concat(' ', normalize-space(@class), ' '), ' menu ')]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' deeper ') and (position() = 2)]/a//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' lbl ')]</value>
+      <webElementGuid>384540b6-510a-428d-8550-6fca8a9b4e15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav ') and contains(concat(' ', normalize-space(@class), ' '), ' menu ')]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' deeper ') and (position() = 2)]/a//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' lbl ')]</value>
+      <webElementGuid>da8ad4dd-c72d-49a0-a814-b49a697c9745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Women' or . = 'Women')]</value>
+      <webElementGuid>98ec6c17-e823-41a8-ba0a-fe3b9786fdd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

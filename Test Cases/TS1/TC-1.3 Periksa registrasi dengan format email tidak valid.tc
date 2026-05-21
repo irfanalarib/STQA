@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa registrasi dengan format email tidak valid</description>
+   <name>TC-1.3 Periksa registrasi dengan format email tidak valid</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a97d4957-8adb-4614-a1e4-78aa11b26e0c</testCaseGuid>
+</TestCaseEntity>

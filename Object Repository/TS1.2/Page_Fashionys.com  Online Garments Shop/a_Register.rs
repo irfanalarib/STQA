@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Register</name>
+   <tag></tag>
+   <elementGuidId>c7a33492-f461-42d4-b005-6c7ea46910fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'registration.php']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;registration\.php&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Register&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9be2ba38-56ee-498b-aa46-f2fdbf30a7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>registration.php</value>
+      <webElementGuid>c12f12eb-b727-455f-9255-117c5be05223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Register</value>
+      <webElementGuid>363f7eb1-ad66-45b6-8d6e-b3bddc03c2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d6459494aebd71516129481e00691b4a</value>
+      <webElementGuid>5da95cf2-569a-4d39-b391-1b6ea32467c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'registration.php']</value>
+      <webElementGuid>c6d8ed8b-4961-4665-acbf-ac8cd7c00a47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'registration.php']</value>
+      <webElementGuid>9f40bf02-6e3c-4e54-a185-4e9ef287ae5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'registration.php' and (text() = ' Register' or . = ' Register')]</value>
+      <webElementGuid>85edb1be-12ba-4a49-96d4-7785304908d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

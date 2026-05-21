@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Membuka halaman subscriber dan memeriksa daftar pelanggan ditampilkan</description>
+   <name>TC-31.1 Membuka halaman subscriber dan memeriksa daftar pelanggan ditampilkan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2f72c24-a29f-483e-997e-6f2d06dbb3b7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa halaman About Us menampilkan profil perusahaan</description>
+   <name>TC-5.2 Periksa halaman About Us menampilkan profil perusahaan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3cd79c15-5242-4bf7-874b-8c2c2884a76a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa fungsi sistem saat semua data diisi dengan benar</description>
+   <name>TC-1.1 Periksa fungsi sistem saat semua data diisi dengan benar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc944fc4-4f2e-474b-90ba-fb25a24c94ea</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji sistem ketika keyword tidak ada di database</description>
+   <name>TC9.2</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>255bc614-32ba-4680-a33b-1f3bd11f189e</testCaseGuid>
+</TestCaseEntity>

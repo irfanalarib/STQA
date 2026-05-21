@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa menghapus salah satu FAQ dan data terhapus</description>
+   <name>TC29.4 Periksa menghapus salah satu FAQ dan data terhapus</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4270af3-1889-48e1-b125-9b73e7b8b671</testCaseGuid>
+</TestCaseEntity>

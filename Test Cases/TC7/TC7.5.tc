@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi navigasi mengarah ke halaman produk</description>
+   <name>TC7.5</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e68b0a67-8236-432f-aa57-1ddf42d0dcc7</testCaseGuid>
+</TestCaseEntity>

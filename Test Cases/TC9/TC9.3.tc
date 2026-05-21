@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji sistem saat user tidak mengisi field search</description>
+   <name>TC9.3</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0dd035fa-0eb9-4fac-88d8-93aea6a7d68a</testCaseGuid>
+</TestCaseEntity>

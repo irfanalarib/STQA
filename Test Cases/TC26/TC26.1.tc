@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan hanya admin yang dapat mengakses Page Settings.</description>
+   <name>TC26.1</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79f801c9-1de0-4cc7-9d80-740ad89aae75</testCaseGuid>
+</TestCaseEntity>

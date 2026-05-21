@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa statistik dashboard tampil</description>
+   <name>TC-19.2 Memeriksa statistik dashboard tampil</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7481f0d-d486-4ac0-bd6f-e31a8681bea7</testCaseGuid>
+</TestCaseEntity>

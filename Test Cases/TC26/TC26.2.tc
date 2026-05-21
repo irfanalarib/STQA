@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan seluruh tab halaman tampil dan dapat digunakan.</description>
+   <name>TC26.2</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9ae4b58-facf-4faf-add0-5d56fa87950d</testCaseGuid>
+</TestCaseEntity>

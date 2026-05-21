@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_kitsuneadelia10gmail.com</name>
+   <tag></tag>
+   <elementGuidId>9069c560-f27c-43a3-b35d-70ce53a6b36a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.even.bg-r td:nth-child(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-r ')]//*[(name() = 'td') and (position() = 3)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;kitsuneadelia10@gmail.com&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6903e02a-afea-4815-9eab-7004168f9dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kitsuneadelia10@gmail.com</value>
+      <webElementGuid>100737e6-27bd-4368-8dcf-5eaee26bfb7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1d334ff3c922fe2a62ad5f90a69abffb</value>
+      <webElementGuid>550499e3-6a79-4ab3-857e-ac94984bb0d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-r ')]//*[(name() = 'td') and (position() = 3)]</value>
+      <webElementGuid>9dc7a9b1-f830-46c7-b550-c6566703ba4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-r ')]//*[(name() = 'td') and (position() = 3)]</value>
+      <webElementGuid>6d267d9e-f4f6-425a-bb7e-c645c9e33a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'kitsuneadelia10@gmail.com' or . = 'kitsuneadelia10@gmail.com')]</value>
+      <webElementGuid>e8549d63-91c3-457c-82a1-ff78f28f0d9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_about_meta_keyword</name>
+   <tag></tag>
+   <elementGuidId>138035f7-41a2-4dcb-acb7-19359d095272</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;about_meta_keyword&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'about_meta_keyword']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;about, about us, about fashion, about company, about fashionys&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>3ee67416-20cb-4589-b364-eedda47a82c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>eac57c62-1653-4878-adeb-4a720c3eef89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>about_meta_keyword</value>
+      <webElementGuid>1adab1dc-07a1-4201-913b-d10a258afd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>about, about us, about fashion, about company, about fashionys</value>
+      <webElementGuid>b0da3517-07a5-4990-963d-5f7d86f455b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-364a5c45c2bcea818264bdf5e2b63ebf</value>
+      <webElementGuid>4789384d-3eb3-4a84-8fd8-cf4e8d986642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'about_meta_keyword']</value>
+      <webElementGuid>c62a6af3-0628-4b89-bd94-8ca6eeb2b8e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'about_meta_keyword']</value>
+      <webElementGuid>8c6eeb8a-a8af-4775-a77d-64b48c861f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'about_meta_keyword' and (text() = 'about, about us, about fashion, about company, about fashionys' or . = 'about, about us, about fashion, about company, about fashionys')]</value>
+      <webElementGuid>3a480bf1-6f43-4cc2-9ce1-30378147c554</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

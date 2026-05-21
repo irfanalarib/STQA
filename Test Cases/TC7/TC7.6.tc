@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi customer dapat melihat daftar kategori dan subkategori</description>
+   <name>TC7.6</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d227872-c290-4416-a74c-7051f0c9363a</testCaseGuid>
+</TestCaseEntity>

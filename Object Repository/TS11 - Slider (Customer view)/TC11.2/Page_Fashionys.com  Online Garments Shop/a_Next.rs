@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next</name>
+   <tag></tag>
+   <elementGuidId>f2c4e73f-41d7-4b55-ab70-2d56bf2653b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.right.carousel-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bootstrap-touch-slider']/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Next&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6349f3c-c868-4bda-86f5-f16b513aeb22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right carousel-control</value>
+      <webElementGuid>af5b5d39-835e-4228-864d-c4031483c740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#bootstrap-touch-slider</value>
+      <webElementGuid>f03566a7-aaf9-4d30-8fa7-55c15a1a427e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dbbe1ab3-82b6-4e5a-ba67-90b3a1d36e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slide</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>43a5d8b5-aead-48a8-a962-7b6ac28237ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+        Next
+    </value>
+      <webElementGuid>c3f1bda8-86c6-474a-9bcc-dbdf9156d2a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bootstrap-touch-slider&quot;)/a[@class=&quot;right carousel-control&quot;]</value>
+      <webElementGuid>c7ebaa52-4301-4438-b4cb-b665872737cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bootstrap-touch-slider']/a[2]</value>
+      <webElementGuid>a4cafeb5-52db-4581-93b3-9f6e287b738d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::a[1]</value>
+      <webElementGuid>27ff1a18-0597-48ac-91c1-ff2ea9171051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Women Accessories'])[1]/following::a[4]</value>
+      <webElementGuid>2230eb93-092e-42ba-ac4e-75574d7caa12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Easy Returns'])[1]/preceding::a[1]</value>
+      <webElementGuid>397e6817-23fb-44fa-ab7d-28bde8671886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#bootstrap-touch-slider')])[2]</value>
+      <webElementGuid>33b095da-8117-403a-ae55-456563a36dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>c8a63b03-8f5c-49dc-8afe-9563b8992897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#bootstrap-touch-slider' and (text() = '
+        
+        Next
+    ' or . = '
+        
+        Next
+    ')]</value>
+      <webElementGuid>d341f77a-1f45-4ddd-a8f8-4bfd5f14c3b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

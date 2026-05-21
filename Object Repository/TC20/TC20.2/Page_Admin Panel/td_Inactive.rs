@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Inactive</name>
+   <tag></tag>
+   <elementGuidId>dd86897f-91dc-42e9-a14f-71ba03ce5a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.even.bg-r td:nth-child(5)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-r ')]//*[(name() = 'td') and (position() = 5)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;Inactive&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>17101897-3ed3-47bb-84ea-72b075c84a3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inactive</value>
+      <webElementGuid>be317350-17eb-4353-991c-3dc398b1957d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e106d23e0e722569dbf49ddf26641fec</value>
+      <webElementGuid>0cca29d1-3e84-4458-87d7-36491329e1f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-r ')]//*[(name() = 'td') and (position() = 5)]</value>
+      <webElementGuid>94cb330c-1b34-45de-9010-e107f50165bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-r ')]//*[(name() = 'td') and (position() = 5)]</value>
+      <webElementGuid>aeaf4e9e-ac0b-4a91-b4c8-657509a7fb7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Inactive' or . = 'Inactive')]</value>
+      <webElementGuid>fdeb2914-fa94-4506-a42b-71635ca0e095</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

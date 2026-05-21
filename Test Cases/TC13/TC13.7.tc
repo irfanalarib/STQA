@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi sistem menolak email tidak valid</description>
+   <name>TC13.7</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1fc359a9-a846-4427-8889-0666de503438</testCaseGuid>
+</TestCaseEntity>

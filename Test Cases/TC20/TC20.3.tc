@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi sistem ketika admin dapat mengubah status user (aktif/nonaktif)</description>
+   <name>TC20.3</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d25a1e61-3319-40b9-9776-e0b8586216cb</testCaseGuid>
+</TestCaseEntity>

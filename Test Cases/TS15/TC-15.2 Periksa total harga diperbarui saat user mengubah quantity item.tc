@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa total harga diperbarui saat user mengubah quantity item</description>
+   <name>TC-15.2 Periksa total harga diperbarui saat user mengubah quantity item</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dacdfd64-ca84-475c-b709-e0181cee94ca</testCaseGuid>
+</TestCaseEntity>

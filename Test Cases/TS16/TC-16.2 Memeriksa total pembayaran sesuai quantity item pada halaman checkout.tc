@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa total pembayaran sesuai quantity item pada halaman checkout</description>
+   <name>TC-16.2 Memeriksa total pembayaran sesuai quantity item pada halaman checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>515fb91f-7070-4d5a-b323-d213d31821f0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa item yang dihapus dari cart tidak tampil pada halaman checkout</description>
+   <name>TC-16.4 Memeriksa item yang dihapus dari cart tidak tampil pada halaman checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b04b1db-2051-4a72-a7a1-d7bd3b996881</testCaseGuid>
+</TestCaseEntity>

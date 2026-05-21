@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan sistem memberikan peringatan jika email tidak ditemukan.</description>
+   <name>TC3.3</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc09eee5-364a-4176-8310-5e7779655869</testCaseGuid>
+</TestCaseEntity>

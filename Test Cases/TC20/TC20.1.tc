@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi admin dapat melihat seluruh data user/customer</description>
+   <name>TC20.1</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f5187726-7d4a-4636-b937-dcadbf52c50a</testCaseGuid>
+</TestCaseEntity>

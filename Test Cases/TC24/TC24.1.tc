@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengakses halaman Website Settings dan memeriksa seluruh menu yang tersedia.</description>
+   <name>TC24.1</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9600cade-cd4f-40b9-a1b3-2fd401a0e014</testCaseGuid>
+</TestCaseEntity>

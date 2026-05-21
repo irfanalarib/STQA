@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi email tidak boleh kosong saat subscribe</description>
+   <name>TC13.1</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c4becb5-825b-4404-9852-35ff08b0ad5a</testCaseGuid>
+</TestCaseEntity>

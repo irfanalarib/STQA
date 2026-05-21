@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa order details ditampilkan saat user membuka halaman checkout</description>
+   <name>TC-16.1 Memeriksa order details ditampilkan saat user membuka halaman checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>377a9bdf-53cd-4aa5-8313-32baedbbac34</testCaseGuid>
+</TestCaseEntity>

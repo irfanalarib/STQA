@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi sistem memberikan feedback (error/sukses)</description>
+   <name>TC13.8</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>972d48fb-6acf-453f-b2bf-0ebaf156af40</testCaseGuid>
+</TestCaseEntity>

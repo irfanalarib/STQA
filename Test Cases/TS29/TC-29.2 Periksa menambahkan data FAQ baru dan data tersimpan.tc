@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa menambahkan data FAQ baru dan data tersimpan</description>
+   <name>TC-29.2 Periksa menambahkan data FAQ baru dan data tersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>887bba7a-ea79-42df-9b79-eea17ae8d27a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa fungsi sistem dengan dublicate email</description>
+   <name>TC-1.2 Periksa fungsi sistem dengan dublicate email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6e7f67e-4705-4bca-bba9-f8c2017d7b71</testCaseGuid>
+</TestCaseEntity>

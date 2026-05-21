@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa halaman About Us menampilkan deskripsi layanan</description>
+   <name>TC-5.3 Periksa halaman About Us menampilkan deskripsi layanan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe9bc9e2-e2fd-4c63-b1e5-ef9f41d47251</testCaseGuid>
+</TestCaseEntity>

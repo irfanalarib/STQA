@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa daftar FAQ ditampilkan pada halaman admin</description>
+   <name>TC-29.1 Periksa daftar FAQ ditampilkan pada halaman admin</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbaa9851-4d2c-4997-b4d6-a5b132a6bc93</testCaseGuid>
+</TestCaseEntity>

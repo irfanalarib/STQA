@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa nama admin tampil pada header</description>
+   <name>TC-19.4 Memeriksa nama admin tampil pada header</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>176e6cc4-6840-4fee-ad47-3787a6209d84</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa halaman About Us menampilkan informasi bisnis, profil perusahaan, dan deskripsi layanan</description>
+   <name>TC-5.1 Periksa halaman About Us menampilkan informasi bisnis, profil perusahaan, dan deskripsi layanan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8cb1208b-d050-4635-a5fc-83b04082cc6a</testCaseGuid>
+</TestCaseEntity>

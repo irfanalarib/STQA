@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Headwear</name>
+   <tag></tag>
+   <elementGuidId>f90fee6d-8b1a-4a32-8a8f-89146ec03aef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menu-dropdown-icon ') and (position() = 2)]//*[(name() = 'li') and (position() = 1)]//*[(name() = 'li') and (position() = 1)]//a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.menu-dropdown-icon:nth-child(2) li:nth-child(1) li:nth-child(1) a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Headwear&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71787e36-73c2-4198-9950-014994a0f8e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>product-category.php?id=1&amp;type=end-category</value>
+      <webElementGuid>1dcb3678-0cd6-4fb5-852c-87d117446a7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Headwear </value>
+      <webElementGuid>26c24d7b-e8ce-4c11-8ed8-a173e4cc2320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-41d34834c5d8e639e5e71d63cd781ed9</value>
+      <webElementGuid>e133948e-16cf-4615-94b8-d8e40bcd0053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menu-dropdown-icon ') and (position() = 2)]//*[(name() = 'li') and (position() = 1)]//*[(name() = 'li') and (position() = 1)]//a</value>
+      <webElementGuid>f3db99d3-543d-44a9-9644-3f47eee58669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menu-dropdown-icon ') and (position() = 2)]//*[(name() = 'li') and (position() = 1)]//*[(name() = 'li') and (position() = 1)]//a</value>
+      <webElementGuid>59efcf97-b540-4fdd-9e30-27d8471eca55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'product-category.php?id=1&amp;type=end-category' and (text() = 'Headwear ' or . = 'Headwear ')]</value>
+      <webElementGuid>e0705024-67e8-45ed-b934-83c00104bd7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

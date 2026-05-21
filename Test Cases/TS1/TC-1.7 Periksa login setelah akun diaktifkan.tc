@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa login setelah akun diaktifkan</description>
+   <name>TC-1.7 Periksa login setelah akun diaktifkan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8097b1d-f7b0-4029-a744-9f039b06324f</testCaseGuid>
+</TestCaseEntity>

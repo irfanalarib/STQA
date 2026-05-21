@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa tombol logout tersedia untuk Customer</description>
+   <name>TC4.1</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb5dd047-a90c-4a10-9036-d43fc5ed6496</testCaseGuid>
+</TestCaseEntity>

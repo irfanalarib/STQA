@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa item terhapus dari cart saat user menghapus item</description>
+   <name>TC-15.3 Periksa item terhapus dari cart saat user menghapus item</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7370f875-55d4-49d0-93b1-2b821760de3f</testCaseGuid>
+</TestCaseEntity>

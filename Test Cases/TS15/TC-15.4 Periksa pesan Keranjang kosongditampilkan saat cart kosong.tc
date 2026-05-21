@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa pesan &quot;Keranjang kosong&quot; ditampilkan saat cart kosong</description>
+   <name>TC-15.4 Periksa pesan Keranjang kosongditampilkan saat cart kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>354777ca-4bb1-4144-b3a3-1fb3f95ff0f5</testCaseGuid>
+</TestCaseEntity>

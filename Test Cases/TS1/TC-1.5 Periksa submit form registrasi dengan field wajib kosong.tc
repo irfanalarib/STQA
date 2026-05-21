@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa submit form registrasi dengan field wajib kosong</description>
+   <name>TC-1.5 Periksa submit form registrasi dengan field wajib kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8cb9ef54-60b7-4d2e-a648-ca9f227233b0</testCaseGuid>
+</TestCaseEntity>

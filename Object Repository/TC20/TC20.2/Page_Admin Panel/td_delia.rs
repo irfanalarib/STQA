@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_delia</name>
+   <tag></tag>
+   <elementGuidId>fb5e2b07-f9a7-4add-ac26-a9c025360d06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.even.bg-r td:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-r ')]//*[(name() = 'td') and (position() = 2)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;delia&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>225a6aa2-155b-48de-8b07-0307b5d56ed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>delia</value>
+      <webElementGuid>0e36ad4e-13b4-43d4-8a31-89d1ceba7b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7595786b4130702b6f914867e07fcfbc</value>
+      <webElementGuid>6471e0ad-1a72-49e3-ae14-61edd4e62324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-r ')]//*[(name() = 'td') and (position() = 2)]</value>
+      <webElementGuid>e8565440-3216-4fb5-b09c-653a03b3b654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-r ')]//*[(name() = 'td') and (position() = 2)]</value>
+      <webElementGuid>787dda5c-7bc7-4a19-a40f-3ca408bb237f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'delia' or . = 'delia')]</value>
+      <webElementGuid>bde62ad4-5ff6-422c-b6a7-5f8cdbd86349</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

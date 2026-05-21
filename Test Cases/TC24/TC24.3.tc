@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin memperbarui pengaturan homepage dan memverifikasi perubahan tampil di website.</description>
+   <name>TC24.3</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ed76442-06ce-4e79-86f6-5ce1e17f9857</testCaseGuid>
+</TestCaseEntity>

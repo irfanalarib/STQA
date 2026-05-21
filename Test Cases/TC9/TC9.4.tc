@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji apakah sistem mendukung pencarian sebagian kata</description>
+   <name>TC9.4</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6f49fdf-2044-479b-ba25-eced14f7ae2f</testCaseGuid>
+</TestCaseEntity>

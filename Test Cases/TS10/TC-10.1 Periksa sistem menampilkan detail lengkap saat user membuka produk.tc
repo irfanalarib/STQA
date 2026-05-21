@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa sistem menampilkan detail lengkap saat user membuka produk</description>
+   <name>TC-10.1 Periksa sistem menampilkan detail lengkap saat user membuka produk</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3354d017-ec82-40fa-a500-2eb1d70376a6</testCaseGuid>
+</TestCaseEntity>

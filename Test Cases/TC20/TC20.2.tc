@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mencoba menghapus data user/customer.</description>
+   <name>TC20.2</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7171a86-4a49-4285-9644-4d38d2228fca</testCaseGuid>
+</TestCaseEntity>

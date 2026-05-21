@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDT LOGIN</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>dfc7a45e-e166-4461-9efb-644e3754df29</testSuiteGuid>
+   <testCaseLink>
+      <guid>db35ee49-7569-491e-8b34-3a800243c838</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC-2.8 - Copy</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7f002a90-3ec1-490a-8a7b-ef532d9afb94</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TesData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7f002a90-3ec1-490a-8a7b-ef532d9afb94</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>b9d7f7df-06c6-47bf-b36b-490e414d5d74</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7f002a90-3ec1-490a-8a7b-ef532d9afb94</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>94c0d53f-84dd-40fa-b343-cff000164c60</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7f002a90-3ec1-490a-8a7b-ef532d9afb94</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ExpectedWarningMessage</value>
+         <variableId>94bd7625-ab93-47aa-a334-a67697f039a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7f002a90-3ec1-490a-8a7b-ef532d9afb94</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testType</value>
+         <variableId>f82c657b-c86d-4000-9c9a-099431c38fcd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

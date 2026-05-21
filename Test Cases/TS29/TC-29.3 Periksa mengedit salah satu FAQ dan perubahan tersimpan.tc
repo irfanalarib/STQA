@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa mengedit salah satu FAQ dan perubahan tersimpan</description>
+   <name>TC-29.3 Periksa mengedit salah satu FAQ dan perubahan tersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d24b676f-debd-4753-bac7-c662f9676f95</testCaseGuid>
+</TestCaseEntity>

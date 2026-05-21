@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login sebagai admin dan memeriksa dashboard ditampilkan</description>
+   <name>TC-19.1 Login sebagai admin dan memeriksa dashboard ditampilkan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea0253ae-749f-4938-9ce7-9ac2bdcfadad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa sistem menampilkan pesan Produk tidak ditemukan saat</description>
+   <name>TC10.2 Periksa sistem menampilkan pesan Produk tidak ditemukan saat</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>445a3ea6-974c-442a-8205-35b2591dbaa5</testCaseGuid>
+</TestCaseEntity>

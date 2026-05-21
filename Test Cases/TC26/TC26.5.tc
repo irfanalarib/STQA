@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin menyimpan halaman tanpa mengisi konten.</description>
+   <name>TC26.5</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21c457a1-712b-41c2-802b-4e00a68ebf21</testCaseGuid>
+</TestCaseEntity>

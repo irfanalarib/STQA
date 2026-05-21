@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa tombol logout tersedia untuk Admin</description>
+   <name>TC4.3</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7fcfd91-43cb-4c01-a9c8-cab781b617ba</testCaseGuid>
+</TestCaseEntity>

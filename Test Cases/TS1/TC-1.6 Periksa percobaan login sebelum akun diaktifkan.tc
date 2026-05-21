@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa percobaan login sebelum akun diaktifkan</description>
+   <name>TC-1.6 Periksa percobaan login sebelum akun diaktifkan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8aba304c-dc7c-4e46-a6eb-a7b189df508b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa redirect ke halaman login setelah Customer logout</description>
+   <name>TC4.2</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eccaa317-ae89-4f4e-9407-8825d205ea08</testCaseGuid>
+</TestCaseEntity>

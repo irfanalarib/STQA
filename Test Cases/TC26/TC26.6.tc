@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin memasukkan konten menggunakan text editor.</description>
+   <name>TC26.6</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6aae5441-320c-42bc-89aa-08adb984cbde</testCaseGuid>
+</TestCaseEntity>

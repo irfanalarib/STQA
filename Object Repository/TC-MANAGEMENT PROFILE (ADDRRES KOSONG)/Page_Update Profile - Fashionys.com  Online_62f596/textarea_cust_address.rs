@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_cust_address</name>
+   <tag></tag>
+   <elementGuidId>c284f952-c998-4818-b30c-a355594290c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'cust_address']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;cust_address&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;RT/RW 13/04 KEL.KARANG ANYAR, CURUP TIMUR, REJANG LEBONG, BENGKULU&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>428dc81f-d23f-433f-9608-5ac759a64b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cust_address</value>
+      <webElementGuid>4e3c951a-674c-449f-ae1f-888c6b671d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1d6b603f-ca23-4100-b8ce-425f5430c7af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cols</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>3bf0bc29-a739-44ce-9d56-7be4cd4aea81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>2b9c7e95-5651-42e4-ba97-fd45145d945a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RT/RW 13/04 KEL.KARANG ANYAR, CURUP TIMUR, REJANG LEBONG, BENGKULU</value>
+      <webElementGuid>72e1807b-124b-4417-b7b1-3d7328b02e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-84bb51fc84accdcd201b0794fa38d63f</value>
+      <webElementGuid>4361994d-dc2a-4657-b0a2-38ec863bf72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'cust_address']</value>
+      <webElementGuid>4a331aac-2f39-4078-a95f-0944a11898f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'cust_address']</value>
+      <webElementGuid>6adb3fa1-8cf5-4847-a18a-d245f0954f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'cust_address' and (text() = 'RT/RW 13/04 KEL.KARANG ANYAR, CURUP TIMUR, REJANG LEBONG, BENGKULU' or . = 'RT/RW 13/04 KEL.KARANG ANYAR, CURUP TIMUR, REJANG LEBONG, BENGKULU')]</value>
+      <webElementGuid>6fd25e23-b1a1-49f7-a733-1e17dcebe8e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

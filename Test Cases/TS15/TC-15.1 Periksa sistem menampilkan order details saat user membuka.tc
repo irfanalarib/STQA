@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa sistem menampilkan order details saat user membuka</description>
+   <name>TC-15.1 Periksa sistem menampilkan order details saat user membuka</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cbb6120-5222-4f5b-bfe1-e220df0ae921</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan konten halaman berubah sesuai tab yang dipilih admin.</description>
+   <name>TC26.3</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3ef3ea7-6e62-46f5-871e-c625590e869e</testCaseGuid>
+</TestCaseEntity>

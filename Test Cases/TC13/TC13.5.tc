@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi customer dapat melakukan subscribe dengan email valid</description>
+   <name>TC13.5</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cf21c4c-a103-4400-bae8-cb275a250bd9</testCaseGuid>
+</TestCaseEntity>

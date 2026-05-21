@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi kategori dapat diklik</description>
+   <name>TC7.3</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9f1ca19-c7a0-4c61-8b74-11441c024d37</testCaseGuid>
+</TestCaseEntity>

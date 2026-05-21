@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi kategori utama (Men, Women, Kids) ditampilkan pada navbar</description>
+   <name>TC7.2</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b500601f-c12d-499d-9043-d5ead33fa422</testCaseGuid>
+</TestCaseEntity>
