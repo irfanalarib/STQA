@@ -9,9 +9,13 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>11.1.2</modifiedVersion>
+   <modifiedVersion>11.1.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+<<<<<<< HEAD
    <projectFileLocation>D:\Kuliah\Semester 4\STQA\Fashionys_gIT\project fashionys\project fashionys.prj</projectFileLocation>
+=======
+   <projectFileLocation>D:\KATAGIT\STQA\project fashionys.prj</projectFileLocation>
+>>>>>>> branch 'main' of https://github.com/irfanalarib/STQA.git
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
