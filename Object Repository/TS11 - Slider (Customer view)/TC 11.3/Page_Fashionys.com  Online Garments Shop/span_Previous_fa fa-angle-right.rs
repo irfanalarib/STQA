@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Previous_fa fa-angle-right</name>
    <tag></tag>
-   <elementGuidId>d05ae433-bb9a-482a-bc2f-16f8a440ac76</elementGuidId>
+   <elementGuidId>d287c89f-9309-4334-be76-269da9335b29</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='bootstrap-touch-slider']/a[2]/span</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>span.fa.fa-angle-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bootstrap-touch-slider']/a[2]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>59cd2ff9-7e02-45a1-8c7b-577bf72b1994</webElementGuid>
+      <webElementGuid>5a7284ac-b2d7-4db6-9bce-80927a911e7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-angle-right</value>
-      <webElementGuid>d0107158-55a8-4e23-aa6f-6cb24c5c06d8</webElementGuid>
+      <webElementGuid>b9172c7b-c7f5-47a8-8688-7cd47afdd979</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a88ed749-6a7c-4fdf-a62c-ef6d31ceba8d</webElementGuid>
+      <webElementGuid>31ea40bb-74d5-4428-b94a-179ddf815924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bootstrap-touch-slider&quot;)/a[@class=&quot;right carousel-control&quot;]/span[@class=&quot;fa fa-angle-right&quot;]</value>
-      <webElementGuid>855b90e3-ba48-4c46-8b7e-3ade878e6936</webElementGuid>
+      <webElementGuid>6c452f65-4345-44e2-a24f-65785f3b7c8c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='bootstrap-touch-slider']/a[2]/span</value>
-      <webElementGuid>a759e86c-f87d-477d-ad13-b4d5efed3099</webElementGuid>
+      <webElementGuid>01100cca-bc96-4be1-8bb1-98dc1259e010</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/span</value>
-      <webElementGuid>24743bc1-1275-4e93-9a9a-7b3076e53729</webElementGuid>
+      <webElementGuid>ba853934-274e-4db3-a590-74758b59c3c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

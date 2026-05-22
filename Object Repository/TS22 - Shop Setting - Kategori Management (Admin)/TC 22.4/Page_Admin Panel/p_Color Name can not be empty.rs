@@ -3,7 +3,7 @@
    <description></description>
    <name>p_Color Name can not be empty</name>
    <tag></tag>
-   <elementGuidId>7fa37cc7-62b2-40a7-ae36-8ade7d5a5049</elementGuidId>
+   <elementGuidId>44fcd66f-1edd-4cbc-a39f-c0171d9055bd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>dd7942b0-300c-48a2-bcb3-05b995b06fd3</webElementGuid>
+      <webElementGuid>127ba187-41cd-4689-8bbc-3361530197f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 			Color Name can not be empty			</value>
-      <webElementGuid>34a94307-03ca-4638-9458-eb6f3e5ec313</webElementGuid>
+      <webElementGuid>7b8f00dc-02f6-4e93-8eff-6d93f14b64d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-danger&quot;]/p[1]</value>
-      <webElementGuid>45e50563-3f2d-44fa-b14f-f9209125d87e</webElementGuid>
+      <webElementGuid>53673981-ac9b-48d0-9dd7-5683bc0e7544</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>92ee1fe4-692d-4b30-8b81-ddaaec4915a2</webElementGuid>
+      <webElementGuid>c3099112-4c6f-4e58-a20a-7fb418047260</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Color'])[1]/following::p[1]</value>
-      <webElementGuid>af680d77-9f1f-4051-b48d-65ea20dfc79f</webElementGuid>
+      <webElementGuid>ae71621b-a4e4-47c0-b2e3-c73cfc03b781</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>da9201e5-c061-4168-9904-c3b1318b7385</webElementGuid>
+      <webElementGuid>f869a269-54fa-47d3-8037-625ba6396bb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Color Name can not be empty']/parent::*</value>
-      <webElementGuid>19123424-7e4a-4a59-acd9-acfdc3648d39</webElementGuid>
+      <webElementGuid>7c26fe39-46c9-4b5f-b587-a26f222488c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>a1bdadfb-c05e-4dce-af56-775b727e42af</webElementGuid>
+      <webElementGuid>55d8d368-bd66-4902-83e3-faa83ef27d13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
       <value>//p[(text() = '
 			Color Name can not be empty			' or . = '
 			Color Name can not be empty			')]</value>
-      <webElementGuid>01c13644-3977-4e38-a151-14b4a0700a1e</webElementGuid>
+      <webElementGuid>32aa9961-02d9-4ff3-b519-5ac1fb5290b6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,16 +29,20 @@ WebUI.setEncryptedText(findTestObject('Object Repository/TS22 - Shop Setting - K
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Login/input_Admin Panel_form1'))
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/a_Shop Settings'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/span_Shop Settings'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/a_Country'))
 
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/h1_View Countries'))
+
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/a_Add New'))
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/div_Country Name Submit'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/h1_Add Country'))
+
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/input__country_name'))
 
 WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/input__country_name'), 
-    'Italia')
+    'Filipina')
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.5/Page_Admin Panel/button_Submit'))
 

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f96c8111-7703-4f96-a71a-f2973db4785d</webElementGuid>
+      <webElementGuid>23ae695e-f6cd-464f-9797-28d00525009d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>order.php</value>
-      <webElementGuid>70891c7b-fd1a-4259-9ebc-a829d7818b1c</webElementGuid>
+      <webElementGuid>9059c714-0fb0-4064-99f3-201e816ba41c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <value>
                              Orders Management
                         </value>
-      <webElementGuid>b88ca10d-aa95-49af-b2aa-f39bb29e9b5b</webElementGuid>
+      <webElementGuid>b927e7a2-2912-4d10-be77-f202c8aea66a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview&quot;]/a[1]</value>
-      <webElementGuid>f3487cb2-d71f-43e5-a05b-bed40d4e8470</webElementGuid>
+      <webElementGuid>402fb2a9-4ca1-46c7-bf34-18775e1061e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View / Add Products'])[1]/following::a[1]</value>
-      <webElementGuid>f9a7cd0c-d1cb-4f09-b1a1-f9898bd46524</webElementGuid>
+      <webElementGuid>4b86d0d3-364f-4782-af8c-319072185bed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End Level Category'])[1]/following::a[2]</value>
-      <webElementGuid>5170d868-4eb6-4bf7-80f8-020db37dcdbe</webElementGuid>
+      <webElementGuid>bac2f970-18af-4ef1-b8bf-79d4df33fdbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Slider'])[1]/preceding::a[1]</value>
-      <webElementGuid>af1c711a-e9cf-48d4-9674-f4d698264650</webElementGuid>
+      <webElementGuid>3d3ce54b-262d-4ebc-b46d-a9ee30523464</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'order.php')]</value>
-      <webElementGuid>4c8edca8-91db-41a0-b22b-e032cff2855d</webElementGuid>
+      <webElementGuid>1f74f90c-f4e6-4043-8958-1cc43efc97ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/ul/li[5]/a</value>
-      <webElementGuid>ac8f896a-4a1b-4719-8699-c0633ab5c102</webElementGuid>
+      <webElementGuid>a828af3c-beae-4c71-b9af-1ce769964dc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +107,6 @@
                         ' or . = '
                              Orders Management
                         ')]</value>
-      <webElementGuid>9fe4c9cc-8748-4150-b794-125a8155ead8</webElementGuid>
+      <webElementGuid>22a50d58-ec60-42a7-bd20-d3a7ae81e0ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>p_Country Name can not be empty</name>
    <tag></tag>
-   <elementGuidId>7f338602-3026-4cf5-bff7-1edcb269ac39</elementGuidId>
+   <elementGuidId>00ffcdb3-392a-4a8c-a6dc-5664db03ca45</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>2a79e0a1-0fac-41aa-b16e-1ec6916a8ac6</webElementGuid>
+      <webElementGuid>bdc4d29f-2c4e-402f-9206-440fc0b245e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 			Country Name can not be empty			</value>
-      <webElementGuid>737c53d4-f747-43e7-a5c9-fd716452bdbc</webElementGuid>
+      <webElementGuid>e23a9d2f-338f-4a9a-ba93-822049053570</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-danger&quot;]/p[1]</value>
-      <webElementGuid>8c8b5f07-b5d2-4d2c-8d31-95577d7a08e4</webElementGuid>
+      <webElementGuid>57671021-2d45-4680-9c4b-71606aa2eec1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>75b54184-2240-4c3c-9271-f022b0b4f3a5</webElementGuid>
+      <webElementGuid>4ecaad4b-c0e5-40d0-a441-800ccc838a97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Country'])[1]/following::p[1]</value>
-      <webElementGuid>7e7f884a-a166-4853-b431-89ddd4a0ffab</webElementGuid>
+      <webElementGuid>c3bcabbc-fd82-41e9-9ab6-263b0e591d35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>8282fca3-01e2-4afb-9eaf-78cb9bfff551</webElementGuid>
+      <webElementGuid>c8b684cd-1f5b-4792-9abe-63f7138474c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Country Name can not be empty']/parent::*</value>
-      <webElementGuid>8982089f-ab27-4ce2-98a6-f482025c1d31</webElementGuid>
+      <webElementGuid>0ad3e5a4-b62f-4689-a012-4728d6b99a69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>c7712d13-eff1-461b-8333-2723ea6721d0</webElementGuid>
+      <webElementGuid>87fad7ad-991c-4549-8949-a1c9ceb577a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
       <value>//p[(text() = '
 			Country Name can not be empty			' or . = '
 			Country Name can not be empty			')]</value>
-      <webElementGuid>cf9c089c-f371-445d-a718-dba8b290bc45</webElementGuid>
+      <webElementGuid>548f957c-807c-45a0-a296-c075f880c5bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

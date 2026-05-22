@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Select Top Level Category</name>
    <tag></tag>
-   <elementGuidId>8e09f064-0c5a-4c4c-bcb2-e70a872999f3</elementGuidId>
+   <elementGuidId>119f52b0-ccc8-48ea-bc15-1674afb7821e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-tcat_id-7s-container']</value>
+         <value>//span[@id='select2-tcat_id-sc-container']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#select2-tcat_id-7s-container</value>
+         <value>#select2-tcat_id-sc-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1b0cb6c8-ac0f-4b75-8d7f-1b01fbd2bc0e</webElementGuid>
+      <webElementGuid>c4dc5e8c-1c36-4e73-bce7-728f4c69f162</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>ae1df345-e135-4cc6-b9b1-a61ea8547d18</webElementGuid>
+      <webElementGuid>20ff772c-a5e4-4db1-b100-d842089c3751</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-tcat_id-7s-container</value>
-      <webElementGuid>f4a51e16-8fc6-4227-afd1-197720b7f3a6</webElementGuid>
+      <value>select2-tcat_id-sc-container</value>
+      <webElementGuid>539dcf69-3cc1-4bd2-b436-446444e9da0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Select Top Level Category</value>
-      <webElementGuid>cd778137-30cb-441f-b0d5-dc607f5b5b18</webElementGuid>
+      <webElementGuid>7c937b77-8325-4206-829a-b2053390e365</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,23 +61,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Top Level Category</value>
-      <webElementGuid>d59bb45e-290c-4d10-8fad-4061c1f3d993</webElementGuid>
+      <webElementGuid>90407eab-3782-44d7-a3de-ad8de8b554c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-tcat_id-7s-container&quot;)</value>
-      <webElementGuid>f9b9e9e4-f7ed-43ad-92b0-6404e84591ad</webElementGuid>
+      <value>id(&quot;select2-tcat_id-sc-container&quot;)</value>
+      <webElementGuid>2cf85fb7-8d00-42a2-addf-342824fbf019</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='select2-tcat_id-7s-container']</value>
-      <webElementGuid>75736375-843a-43d4-8222-52eccb09d17d</webElementGuid>
+      <value>//span[@id='select2-tcat_id-sc-container']</value>
+      <webElementGuid>b59be7e8-53e4-4cb6-a744-1d9c1ebb85a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[4]</value>
-      <webElementGuid>ab3e9ff2-c500-4911-87fd-19a945b9988c</webElementGuid>
+      <webElementGuid>c7595980-5ce2-40eb-969f-c3c5b4da60f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[3]</value>
-      <webElementGuid>28a8cf87-fa9d-4a64-a7e0-1b4804fea032</webElementGuid>
+      <webElementGuid>3705458a-b15f-4bf1-832b-7b54a1903bf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,14 +101,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>6c1454b0-04ab-4981-8299-fb67955765ca</webElementGuid>
+      <webElementGuid>ba85b55d-dabd-47e2-8a1f-f6a859903448</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'select2-tcat_id-7s-container' and @title = 'Select Top Level Category' and (text() = 'Select Top Level Category' or . = 'Select Top Level Category')]</value>
-      <webElementGuid>81e5354f-f0d3-4ddd-a718-f1422d4d7ff3</webElementGuid>
+      <value>//span[@id = 'select2-tcat_id-sc-container' and @title = 'Select Top Level Category' and (text() = 'Select Top Level Category' or . = 'Select Top Level Category')]</value>
+      <webElementGuid>6e71ff1f-107b-4bae-8bee-8df464397bca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

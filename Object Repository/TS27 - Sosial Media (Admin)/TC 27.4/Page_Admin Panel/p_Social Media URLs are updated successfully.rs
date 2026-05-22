@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>7a5a48f4-a456-4829-b093-1ace272f4bf4</webElementGuid>
+      <webElementGuid>56faf7e1-a186-40f2-9dc8-40a3988e998f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Social Media URLs are updated successfully.</value>
-      <webElementGuid>26b639e3-be48-4662-8bce-e0dba1a33d88</webElementGuid>
+      <webElementGuid>54a1cca6-f007-466e-a31d-62730fb22586</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-success&quot;]/p[1]</value>
-      <webElementGuid>aff624db-bd8c-4dfb-ac87-c6751add2aee</webElementGuid>
+      <webElementGuid>cd7953c1-4925-46f8-8bab-568c2e25fdaf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media'])[2]/following::p[1]</value>
-      <webElementGuid>17836ddb-1ced-4cbf-b804-9b6cb97dde0a</webElementGuid>
+      <webElementGuid>dc221aeb-9674-4d38-87d5-355dda5d7d8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/following::p[1]</value>
-      <webElementGuid>0f1add4b-9639-4f5b-87d4-dace88166606</webElementGuid>
+      <webElementGuid>e6487263-a68f-42e1-a1b2-1fb657467ad9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::p[2]</value>
-      <webElementGuid>a5c0f2dc-5101-4d68-8a74-e3ad87da0b52</webElementGuid>
+      <webElementGuid>10f70768-01f8-409d-9520-5f94ccc00e53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::p[2]</value>
-      <webElementGuid>9289c81a-b7bc-49f7-8427-da8856a73e62</webElementGuid>
+      <webElementGuid>90d40ea3-a293-4bb7-a9aa-c287e763283f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Social Media URLs are updated successfully.']/parent::*</value>
-      <webElementGuid>788ccd8a-6010-4d98-86e7-45d9bae77822</webElementGuid>
+      <webElementGuid>64b1f021-ad5a-448e-b686-4087aa4920ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>c5810743-d9d8-452e-9b3e-5d7281626890</webElementGuid>
+      <webElementGuid>451dd2f4-1f33-4bad-972e-683d927ca3af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Social Media URLs are updated successfully.' or . = 'Social Media URLs are updated successfully.')]</value>
-      <webElementGuid>e23fdf0d-9f56-4b46-aaf8-784c6d68f2dc</webElementGuid>
+      <webElementGuid>619c6b0c-7f3a-4f16-8f62-2c13f01ab346</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

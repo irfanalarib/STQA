@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Add New</name>
    <tag></tag>
-   <elementGuidId>a1ff45a1-ad55-46f6-9a11-b4592cfd91a7</elementGuidId>
+   <elementGuidId>cff0166f-bbdb-4214-9e34-e8945c672ca1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1921e1b1-c443-433d-93cf-229efa4eb2ce</webElementGuid>
+      <webElementGuid>eb733d09-5f69-4271-98d8-6b067830968b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>color-add.php</value>
-      <webElementGuid>1c4ec189-b07c-448a-9ce6-2dae7bc4103d</webElementGuid>
+      <webElementGuid>c70d12fb-e1b0-493a-887e-05f2dcf5de31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-sm</value>
-      <webElementGuid>5fc196de-4d21-4d85-9e5a-1ecd8ca15601</webElementGuid>
+      <webElementGuid>c84dafbe-01bf-4b11-9ffe-0d5d426c34b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add New</value>
-      <webElementGuid>842d32a9-2221-4409-94ea-f22e369f90f8</webElementGuid>
+      <webElementGuid>c8afb152-90d4-466f-9de9-cdebec96bf46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;content-header-right&quot;]/a[@class=&quot;btn btn-primary btn-sm&quot;]</value>
-      <webElementGuid>f9fa2504-873f-4e21-af49-d7ffbb844c20</webElementGuid>
+      <webElementGuid>c164d4cd-15b6-402a-afc1-b9ca9aad9c0a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Add New')]</value>
-      <webElementGuid>1e3c3f14-162c-4a03-b3d4-20f2e0699187</webElementGuid>
+      <webElementGuid>0a9048a8-8f96-4402-960f-1b58271412e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View Colors'])[1]/following::a[1]</value>
-      <webElementGuid>ebe05438-bb8a-4749-b554-276d5c515170</webElementGuid>
+      <webElementGuid>4c35f21b-2d05-4cf5-87e0-2ac4ec775d57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/following::a[1]</value>
-      <webElementGuid>b8ef505e-bf64-4627-b2d2-60803860c009</webElementGuid>
+      <webElementGuid>dc859b80-bcda-4235-89ab-24450a3f719e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[1]/preceding::a[1]</value>
-      <webElementGuid>f8d7e6b4-cdab-4bbb-a5ba-7eaaff8226df</webElementGuid>
+      <webElementGuid>5f889f06-4942-4615-a02b-7a838613463c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add New']/parent::*</value>
-      <webElementGuid>40667ec7-7f92-4cdc-afad-b09a74186221</webElementGuid>
+      <webElementGuid>0206dd94-1f93-4c26-9297-4a9f2ea379a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'color-add.php')]</value>
-      <webElementGuid>db90beca-d8be-4d3c-8ce1-22e91ba52bdb</webElementGuid>
+      <webElementGuid>b4e8c0a0-bb4e-4659-a6b5-9b2012ef4c02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div[2]/a</value>
-      <webElementGuid>583685e0-968c-46be-81ca-dab129e862cf</webElementGuid>
+      <webElementGuid>fd5786fb-5e31-4ea6-8815-ef3d7458eedd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'color-add.php' and (text() = 'Add New' or . = 'Add New')]</value>
-      <webElementGuid>dda76dc4-b449-43aa-b515-b08873d2bf22</webElementGuid>
+      <webElementGuid>2ff96800-c443-44d0-99db-b45a209e4349</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

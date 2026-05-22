@@ -24,7 +24,7 @@ WebUI.navigateToUrl('http://fashionys.com/')
 WebUI.click(findTestObject('TC-ORDER MANAGEMENT (DAFTAR PESANAN TAMPIL)/Page_Fashionys.com  Online Garments Shop/a_Login'))
 
 WebUI.setText(findTestObject('TC-ORDER MANAGEMMENT (ORDER KOSONG)/Page_Fashionys.com  Online Garments Shop/input_cust_email'), 
-    'pajar@gmail.com')
+    'irfan@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('TC-ORDER MANAGEMMENT (ORDER KOSONG)/Page_Fashionys.com  Online Garments Shop/input_cust_password'), 
     'tzH6RvlfSTg=')

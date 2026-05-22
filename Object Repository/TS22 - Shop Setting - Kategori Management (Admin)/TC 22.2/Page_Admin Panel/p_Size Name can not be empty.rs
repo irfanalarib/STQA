@@ -3,15 +3,15 @@
    <description></description>
    <name>p_Size Name can not be empty</name>
    <tag></tag>
-   <elementGuidId>0c20bec9-4208-4fcd-9425-df0d3c0a7a6f</elementGuidId>
+   <elementGuidId>62e9ac54-c0d5-4dcd-92b0-1dc2ca2315bd</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>871ec2b5-5b3d-4f01-8898-9adf9aeb415f</webElementGuid>
+      <webElementGuid>96ba891c-ea4e-423f-940a-f8d37dd85c28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 			Size Name can not be empty			</value>
-      <webElementGuid>d0942f58-47e1-49da-baea-9e342732b53d</webElementGuid>
+      <webElementGuid>ff4d2d31-606b-4eb0-b83d-bb882a71f889</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-danger&quot;]/p[1]</value>
-      <webElementGuid>49267df0-033f-4ab3-84be-670fbdccdfa5</webElementGuid>
+      <webElementGuid>b2b13240-0597-4aa7-9bf4-345f36441a6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>96bd01a2-c730-4720-9c6b-3b4817a06ab3</webElementGuid>
+      <webElementGuid>e208effc-a3a8-45d0-ad2c-50c63e2d6cd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Size'])[1]/following::p[1]</value>
-      <webElementGuid>e8e2466e-8518-43ab-b203-1c6374bf38b3</webElementGuid>
+      <webElementGuid>ddb322d0-07b7-45c6-a331-6ab270954833</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>44392fd8-4c87-45ac-99f1-6daf1da5e2db</webElementGuid>
+      <webElementGuid>7fdb7988-dae5-4a48-a5f9-166eb1cedff2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Size Name can not be empty']/parent::*</value>
-      <webElementGuid>0439cc84-1429-4685-829d-5a3e5c51df08</webElementGuid>
+      <webElementGuid>0d6abc53-ff83-4e1d-b3da-1af6e77bcb66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>1b1e840b-646f-4c88-a97f-15d80fc2190a</webElementGuid>
+      <webElementGuid>427bb216-eced-4176-9d41-0dd073bf436c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
       <value>//p[(text() = '
 			Size Name can not be empty			' or . = '
 			Size Name can not be empty			')]</value>
-      <webElementGuid>50498134-736e-4ee7-8b54-ff147d8873a2</webElementGuid>
+      <webElementGuid>d6e2ae73-c55d-4e24-aaaa-c29b292dd31e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

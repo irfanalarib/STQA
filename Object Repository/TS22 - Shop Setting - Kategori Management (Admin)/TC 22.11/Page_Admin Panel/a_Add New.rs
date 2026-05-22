@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Add New</name>
    <tag></tag>
-   <elementGuidId>195b6b19-4600-433c-a1cc-ad837e0cd00c</elementGuidId>
+   <elementGuidId>cf0e843f-f290-49b5-88b8-62e50d954ac9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>cd18e8ad-834c-46fb-8c16-fc3a41e1b988</webElementGuid>
+      <webElementGuid>8a2c37e9-92d5-436c-afee-d7f0dd23aec8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>mid-category-add.php</value>
-      <webElementGuid>9064764b-5abe-41b7-a55c-41d56a37ca1a</webElementGuid>
+      <webElementGuid>6b2cef05-fe2c-45e7-9c88-e5b8bd032812</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-sm</value>
-      <webElementGuid>5cf46966-809c-4d47-b58f-73bf3fdbc80a</webElementGuid>
+      <webElementGuid>92904493-d052-4e85-9848-1e8e1f73b75b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add New</value>
-      <webElementGuid>e6c4ce67-7f31-45d9-8a46-fb52006a88f0</webElementGuid>
+      <webElementGuid>388acc68-b957-45b3-9fd1-db1fdb6885c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;content-header-right&quot;]/a[@class=&quot;btn btn-primary btn-sm&quot;]</value>
-      <webElementGuid>dd23f858-89ca-4208-9d2f-a8c2cfbcb4cf</webElementGuid>
+      <webElementGuid>f0cbd81a-dfcf-4604-b6b5-f98b0af2c96d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Add New')]</value>
-      <webElementGuid>d020b4b8-60e7-4d92-9578-0ca193ba58ed</webElementGuid>
+      <webElementGuid>6130501a-e9e8-463d-ade1-97d2aa00174e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View Mid Level Categories'])[1]/following::a[1]</value>
-      <webElementGuid>2471e78f-01b7-4697-911b-b8eecff6fa37</webElementGuid>
+      <webElementGuid>8d0682cc-e1b8-4af1-beaf-fe19e1b75686</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/following::a[1]</value>
-      <webElementGuid>6dcd2f89-d9b6-4c59-82cb-eb6008a6a356</webElementGuid>
+      <webElementGuid>d26dd4c3-9918-4bdd-a1ca-522082441777</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[1]/preceding::a[1]</value>
-      <webElementGuid>af7972a9-76de-4879-a096-4fe61f9725d8</webElementGuid>
+      <webElementGuid>69e10419-23c1-4d44-b390-43e2ba6b29f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add New']/parent::*</value>
-      <webElementGuid>0c5e88d2-6b79-45f7-b3ab-fb0a2b250d0d</webElementGuid>
+      <webElementGuid>40b93581-e530-46a7-9a4a-dd160b4aee92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'mid-category-add.php')]</value>
-      <webElementGuid>c66a1e32-b77d-4217-9f3d-73b52c03d45e</webElementGuid>
+      <webElementGuid>f51093ad-1d9e-489e-9419-0392ebef02f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div[2]/a</value>
-      <webElementGuid>6f0ecebc-bfdd-49e8-8e08-4d78020e0d81</webElementGuid>
+      <webElementGuid>33ca0309-8554-4afe-9b01-ed2c72390e59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'mid-category-add.php' and (text() = 'Add New' or . = 'Add New')]</value>
-      <webElementGuid>c8c7e003-a948-4a4b-8ab5-847d60941ede</webElementGuid>
+      <webElementGuid>854ccbe9-9dd4-46bc-96ac-b65dd221a3e2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

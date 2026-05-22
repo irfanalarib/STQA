@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Admin Panel_form1</name>
    <tag></tag>
-   <elementGuidId>4de2d0d3-2a2d-4f31-8293-d6e46a6c5004</elementGuidId>
+   <elementGuidId>d7a0f5a7-e0d3-47ea-b2a8-2a4160a4b693</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='form1']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;form1&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='form1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>49560491-2356-4b4a-8fe4-4d7f73c325bf</webElementGuid>
+      <webElementGuid>feea0895-e196-456d-85cf-da6a36d83ba5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>3aef9bea-788e-41ed-af60-cd150e5155ac</webElementGuid>
+      <webElementGuid>269a15e4-0c3f-4fbe-93b7-28e18ed2bb0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-block btn-flat login-button</value>
-      <webElementGuid>861fff87-9416-48ac-a604-b5bc43f76a63</webElementGuid>
+      <webElementGuid>9d62616f-6908-474d-b4c3-7cd819daa0f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>form1</value>
-      <webElementGuid>1103971c-a475-42f3-b486-63393cae2db8</webElementGuid>
+      <webElementGuid>bfe53af1-084f-4341-a4d7-99932cfada80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Log In</value>
-      <webElementGuid>cf4aa571-bd16-43df-aaea-5b0682fbde6b</webElementGuid>
+      <webElementGuid>737211e3-aed7-4d4f-ae68-2fcf6538bb2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;login-page sidebar-mini&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;login-box-body&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-4&quot;]/input[@class=&quot;btn btn-primary btn-block btn-flat login-button&quot;]</value>
-      <webElementGuid>1852d66a-36fd-43a6-837c-952a9ca66a97</webElementGuid>
+      <webElementGuid>5a5e5beb-a34b-45ba-92bb-fb2063eb5351</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='form1']</value>
-      <webElementGuid>0901b381-24c3-4a88-b6fa-41523b6ac3d6</webElementGuid>
+      <webElementGuid>b43fa784-76da-4f8b-a30c-0bb118cbdf23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/input</value>
-      <webElementGuid>53dd2def-aac2-468c-82b1-c15bf104b3cb</webElementGuid>
+      <webElementGuid>f7612c3a-9a63-4253-89b6-b9b7e56284b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'form1']</value>
-      <webElementGuid>6c8abb90-10d4-4156-8928-c084d9824129</webElementGuid>
+      <webElementGuid>be4d5f22-7b0e-4953-94c9-ea407e212863</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

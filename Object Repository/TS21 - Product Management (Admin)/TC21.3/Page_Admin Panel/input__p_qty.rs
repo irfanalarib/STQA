@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e266c79-8590-4a7a-b22f-f86da81c59db</webElementGuid>
+      <webElementGuid>cf44bc47-45b5-49eb-bc4f-f4452dfd9906</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6d6e78a1-32b2-4e08-8186-ef2820bfdc02</webElementGuid>
+      <webElementGuid>ecb62985-975f-497b-b597-b6c2325c5d0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>p_qty</value>
-      <webElementGuid>57125ab4-710f-40ef-a438-946728fc8c0d</webElementGuid>
+      <webElementGuid>8ce60b48-c079-4c92-80c2-9ec8625ac918</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ae3d68d0-a9fd-4627-9658-7288952c90ee</webElementGuid>
+      <webElementGuid>1e8d2e7d-a41e-46e6-b0c4-999f7492b65f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>c1333de1-6e1d-4ce8-bb04-e0a7118a3c26</webElementGuid>
+      <webElementGuid>63ad05d5-f3bc-4826-938e-eaed60407915</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='p_qty']</value>
-      <webElementGuid>7f395ef3-3f8c-4abd-9ba0-8185cadf639b</webElementGuid>
+      <webElementGuid>61008332-c19d-4050-bbe8-179c932dcca5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/input</value>
-      <webElementGuid>0bc024d2-1e25-4a73-972b-e1970058fa9b</webElementGuid>
+      <webElementGuid>f1ffc7b0-3f12-4743-88f9-9006cfc5354f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'p_qty']</value>
-      <webElementGuid>a690e0ef-66a4-43bf-9338-8518ff95dce0</webElementGuid>
+      <webElementGuid>ba6fdf05-f151-4e52-ba47-f8979e313a0a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

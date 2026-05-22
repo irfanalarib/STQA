@@ -1,122 +1,47 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-
-import com.kms.katalon.core.testobject.ConditionType
-import com.kms.katalon.core.testobject.TestObject
+import com.kms.katalon.core.testobject.ConditionType as ConditionType
+import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
 
 // =====================================================
 // OPEN BROWSER
 // =====================================================
-
 WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-// =====================================================
-// OPEN LOGIN PAGE
-// =====================================================
 
 WebUI.navigateToUrl('http://fashionys.com/admin/login.php')
 
-WebUI.delay(2)
+WebUI.setText(findTestObject('Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Login/input_Admin Panel_email'), 
+    'hammad.shahir@gmail.com')
 
-// =====================================================
-// REMOVE IFRAMES
-// =====================================================
+WebUI.setEncryptedText(findTestObject('Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Login/input_Admin Panel_password'), 
+    '4nvbrPglk7k=')
 
-WebUI.executeJavaScript("""
-document.querySelectorAll('iframe').forEach(f=>{
-    f.remove();
-});
-""", null)
+WebUI.click(findTestObject('Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Login/input_Admin Panel_form1'))
 
-// =====================================================
-// LOGIN
-// =====================================================
+WebUI.click(findTestObject('Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Admin Panel/span_View  Add Products'))
 
-WebUI.setText(
-	findTestObject(
-		'Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Login/input_Admin Panel_email'
-	),
-	'hammad.shahir@gmail.com'
-)
+WebUI.click(findTestObject('Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Admin Panel/h1_View Products'))
 
-WebUI.setEncryptedText(
-	findTestObject(
-		'Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Login/input_Admin Panel_password'
-	),
-	'4nvbrPglk7k='
-)
+WebUI.setText(findTestObject('Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Admin Panel/input_Search_form-control input-sm'), 
+    'black wool')
 
-// CLICK LOGIN
-WebUI.click(
-	findTestObject(
-		'Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Login/div_Admin Panel_col-xs-4'
-	)
-)
+WebUI.click(findTestObject('Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Admin Panel/td_Black Wool Beanie  Bobble Hat For Unisex'))
 
-WebUI.delay(5)
-
-// =====================================================
-// OPEN PRODUCT PAGE DIRECTLY
-// =====================================================
-
-WebUI.navigateToUrl(
-	'http://fashionys.com/admin/product.php'
-)
-
-WebUI.delay(5)
-
-// =====================================================
-// REMOVE IFRAMES AGAIN
-// =====================================================
-
-WebUI.executeJavaScript("""
-document.querySelectorAll('iframe').forEach(f=>{
-    f.remove();
-});
-""", null)
-
-// =====================================================
-// SEARCH INPUT MANUAL
-// =====================================================
-
-TestObject searchBox = new TestObject()
-
-searchBox.addProperty(
-	'xpath',
-	ConditionType.EQUALS,
-	"//input[@type='search']"
-)
-
-// WAIT INPUT
-WebUI.waitForElementPresent(searchBox, 20)
-
-// SET TEXT
-WebUI.setText(searchBox, 'Jeans')
-
-WebUI.delay(3)
-
-// =====================================================
-// CLICK PRODUCT RESULT
-// =====================================================
-
-TestObject jeansRow = new TestObject()
-
-jeansRow.addProperty(
-	'xpath',
-	ConditionType.EQUALS,
-	"//*[contains(text(),'Jeans')]"
-)
-
-WebUI.waitForElementClickable(jeansRow, 20)
-
-WebUI.click(jeansRow)
-
-// =====================================================
-// FINISH
-// =====================================================
-
-WebUI.delay(3)
+WebUI.click(findTestObject('Object Repository/TS21 - Product Management (Admin)/TC21.1/Page_Admin Panel/div_Showing 1 to 1 of 1 entries (filtered f_e21fe9'))
 
 WebUI.closeBrowser()
+

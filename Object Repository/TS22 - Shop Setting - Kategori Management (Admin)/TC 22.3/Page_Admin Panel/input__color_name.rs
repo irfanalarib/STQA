@@ -3,15 +3,15 @@
    <description></description>
    <name>input__color_name</name>
    <tag></tag>
-   <elementGuidId>c9df5bb0-85cd-4d53-a449-52de5505f65d</elementGuidId>
+   <elementGuidId>90d4a842-5852-4449-9a58-5c42f03a4648</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;color_name&quot;]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@name='color_name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;color_name&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f66109f8-bc9f-4b37-a5e1-bda77375f73b</webElementGuid>
+      <webElementGuid>d81d6b49-404c-4462-b81a-37109d20ae01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4e2f2fdd-62a1-48b3-92fb-ef9f1690a08b</webElementGuid>
+      <webElementGuid>13a8a453-6adb-4939-a41e-acecb8eb8f9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>4474f81b-4afa-4fc5-9419-8ba138d07dfa</webElementGuid>
+      <webElementGuid>57884321-5152-4186-99c3-9ff0ebd81263</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>color_name</value>
-      <webElementGuid>4fbc9f1a-2281-47f2-971c-c7e077749e8b</webElementGuid>
+      <webElementGuid>fce187d3-a298-4d95-bf1b-505fcdadda15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>1bb3664c-1c19-44ad-b164-26795e1301c1</webElementGuid>
+      <webElementGuid>ee166c4d-a85c-4178-a67f-cf2d01f2357a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='color_name']</value>
-      <webElementGuid>2bca107e-d82d-4612-9d7d-17fb256897a5</webElementGuid>
+      <webElementGuid>ea85c7bb-db63-410a-8c55-7dbc6d4366f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>5a520ac4-87b1-4fa4-a628-a63264a92aca</webElementGuid>
+      <webElementGuid>85949a53-8dba-45de-94c9-d50479c7144c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'color_name']</value>
-      <webElementGuid>14da0bba-5636-4c3f-ba80-62b937b59ed9</webElementGuid>
+      <webElementGuid>2d7f97dc-d8a2-4892-838a-1755dc40cd35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

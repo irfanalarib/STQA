@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e224a67a-a0e4-4bfc-9cfc-a31a23d65daf</webElementGuid>
+      <webElementGuid>3fb6a336-bbaf-4e8c-b9b2-a467d2beca4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>View / Add Products</value>
-      <webElementGuid>b5879447-d6b3-434c-b89c-8d11b427637a</webElementGuid>
+      <webElementGuid>9628ea3e-44fa-4e10-b4d0-057a9d6c4dc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview&quot;]/a[1]/span[1]</value>
-      <webElementGuid>38860f13-b773-458f-820e-33624b2ba305</webElementGuid>
+      <webElementGuid>a6efe82c-f3ae-4cbf-8099-2d15bed5e27e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End Level Category'])[1]/following::span[1]</value>
-      <webElementGuid>315c3d6f-e8a6-4294-8cca-4fce9b6c0275</webElementGuid>
+      <webElementGuid>f5331aa1-4f90-433a-bf5b-59e616eebce0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mid Level Category'])[1]/following::span[1]</value>
-      <webElementGuid>d01d3bfd-b274-45fc-bfe0-7761e1b11b97</webElementGuid>
+      <webElementGuid>a35c47f3-558a-44d3-997f-7d801c5cbe8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders Management'])[1]/preceding::span[1]</value>
-      <webElementGuid>25a95f3b-97f8-4ed8-b15a-0e5459aa3614</webElementGuid>
+      <webElementGuid>3bd2d3eb-c200-43f5-bfd3-a5ee7c478072</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Slider'])[1]/preceding::span[2]</value>
-      <webElementGuid>321b9e3c-8e87-4f4e-83ec-df700b45c2b6</webElementGuid>
+      <webElementGuid>a356bac1-49cc-442d-84d4-92ab7f3e524e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='View / Add Products']/parent::*</value>
-      <webElementGuid>5985049b-0820-44d2-b331-481a61574ef2</webElementGuid>
+      <webElementGuid>a11b5921-38c2-426e-8921-ca66b2c72192</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span</value>
-      <webElementGuid>7406198c-6167-49a8-affe-6951fe56389a</webElementGuid>
+      <webElementGuid>ec344591-ec43-450b-9f27-ee69118eb9a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'View / Add Products' or . = 'View / Add Products')]</value>
-      <webElementGuid>ae5fbbd5-fb0e-4a47-bbf7-cb0257e382e6</webElementGuid>
+      <webElementGuid>8d9e6705-cdf5-413f-a264-867d26a578ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

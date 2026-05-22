@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>eedc8b6e-1fca-4444-bcc6-b398f38d3022</webElementGuid>
+      <webElementGuid>2bec7b6f-7aad-4c88-a798-1e1a7a78b391</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 			You must have to upload jpg, jpeg, gif or png file			</value>
-      <webElementGuid>69f262e5-59af-4788-9166-13387134d4d0</webElementGuid>
+      <webElementGuid>c79e60d4-5d1b-422f-9800-2e4ece3b541c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-danger&quot;]/p[1]</value>
-      <webElementGuid>d67c5795-70e5-4ae9-9a03-e819b67b381d</webElementGuid>
+      <webElementGuid>4960cfc0-c96a-44ff-8182-012d88ff9dbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>b1a9c18f-f752-41f1-a9c8-0782d50394a2</webElementGuid>
+      <webElementGuid>f0ae2580-6a61-4867-a2ed-de44e91ae203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Product'])[1]/following::p[1]</value>
-      <webElementGuid>f7848af9-cf48-4bb2-90a6-d9f80637890f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Product'])[1]/following::p[1]</value>
+      <webElementGuid>d8ce334f-743d-46ee-9e02-b83dbaed83fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>1ee83395-f922-4fc2-82c8-9916b8aff97a</webElementGuid>
+      <webElementGuid>ebbc54db-c819-48a4-9ebc-b0721388f401</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='You must have to upload jpg, jpeg, gif or png file']/parent::*</value>
-      <webElementGuid>e4b9b85d-5113-49b8-994f-3480dd1e6a1f</webElementGuid>
+      <webElementGuid>cf6ba713-7413-4858-94c3-188339b7551c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>a68476f8-aee0-421f-bd0c-ba2526f16b4f</webElementGuid>
+      <webElementGuid>ce6a79c8-ebbb-40b5-ae4e-5ed1e68e8360</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,14 @@
       <value>//p[(text() = '
 			You must have to upload jpg, jpeg, gif or png file			' or . = '
 			You must have to upload jpg, jpeg, gif or png file			')]</value>
-      <webElementGuid>3150eddb-2212-4048-b5a0-c94906451aaa</webElementGuid>
+      <webElementGuid>de15673a-5184-4255-82cb-57cc85655888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Product'])[1]/following::p[1]</value>
+      <webElementGuid>f7848af9-cf48-4bb2-90a6-d9f80637890f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

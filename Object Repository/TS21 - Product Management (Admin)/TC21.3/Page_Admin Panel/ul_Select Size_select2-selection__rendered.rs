@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>ul</value>
-      <webElementGuid>a7f3147f-ea3f-4123-8cca-910507c95d57</webElementGuid>
+      <webElementGuid>39aa4007-e8b2-4134-b425-9ef52b47b18d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>3a83adbd-d212-4c21-bbad-3510d09dc6bf</webElementGuid>
+      <webElementGuid>1ba9bc87-15ff-4fc3-9a6b-b9729c8ed50a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]</value>
-      <webElementGuid>69285c0a-7ca0-4c44-9886-d2067eb7955e</webElementGuid>
+      <webElementGuid>55bc502c-e982-4556-9b18-28321c1a08a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Size'])[1]/following::ul[1]</value>
-      <webElementGuid>24a96837-38af-4e9b-b37d-787b83150945</webElementGuid>
+      <webElementGuid>9cab5ac4-5d84-471f-abca-5a88df84d139</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::ul[1]</value>
-      <webElementGuid>4f0e0ade-d705-4901-bad9-7d3844d1eefa</webElementGuid>
+      <webElementGuid>63fdb7f1-0602-4b10-93f9-3c133ead383a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Color'])[1]/preceding::ul[1]</value>
-      <webElementGuid>1639ee5a-c21b-44f0-9a88-a727dc1fcb91</webElementGuid>
+      <webElementGuid>0bf5b31e-6c51-4fdd-acd4-17354b22341f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/ul</value>
-      <webElementGuid>a839d8fd-b628-43f6-9e2f-662b6a073276</webElementGuid>
+      <webElementGuid>09e09d0d-9a77-45e1-ae3d-bffc954424cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

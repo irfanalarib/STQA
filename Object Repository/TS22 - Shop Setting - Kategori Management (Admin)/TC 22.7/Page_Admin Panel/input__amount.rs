@@ -3,7 +3,7 @@
    <description></description>
    <name>input__amount</name>
    <tag></tag>
-   <elementGuidId>de8b64b3-b426-4c7b-bf0b-13ed7db3f6c4</elementGuidId>
+   <elementGuidId>42220ad9-ec98-4a5e-8390-e6b6aadd9a7c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>form >> internal:has-text=&quot;Select Country * Select a country Angola Antarctica Antigua and Barbuda Argentin&quot;i >> internal:role=textbox</value>
+         <value>form >> internal:has-text=&quot;Select Country * Select a country Afghanistan Albania Algeria American Samoa Ang&quot;i >> internal:role=textbox</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2be90e7a-4778-4e70-9fd8-3bdf070143dd</webElementGuid>
+      <webElementGuid>da92d45c-e651-4176-a030-9df91c9b93ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>42d3bbb2-c7dd-4472-ae61-e6522973563b</webElementGuid>
+      <webElementGuid>64e9b65f-7e38-416d-b649-39213d57c8a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>34a76c4e-5678-4eac-8215-b7bf727aea0f</webElementGuid>
+      <webElementGuid>dc72cd80-7ccd-4342-a979-9399f5596e21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>49c9e373-0ff0-42c0-955c-27597e6070e0</webElementGuid>
+      <webElementGuid>b8b8c4c6-308e-4775-9386-5bf91cb49c9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>d6e51ddd-6687-41c8-93ca-3b5a03134178</webElementGuid>
+      <webElementGuid>1e594bbc-1f88-425d-8cf8-21f68fcccb22</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='amount']</value>
-      <webElementGuid>7e3417a3-92eb-4ed6-bb60-fb33f7228be4</webElementGuid>
+      <webElementGuid>798fc56d-e822-4ffb-a75f-c7239ff5f313</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>84c55644-9b52-476d-91d2-ec8410d3f8c2</webElementGuid>
+      <webElementGuid>175414bc-bdad-44bf-9025-ff96c0f7311f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'amount']</value>
-      <webElementGuid>678955d8-06d5-486f-8273-e2d93fee2d4d</webElementGuid>
+      <webElementGuid>52408817-3f3c-4ba8-be74-ff92b06c29b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7fe2b7a4-7fbd-488b-931a-69a964ae1fa6</webElementGuid>
+      <webElementGuid>b8593f37-fb81-49e2-b101-8ed1d750fb3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>social-media.php</value>
-      <webElementGuid>08768c2c-a5bb-4bfb-b422-9bc30b1f7905</webElementGuid>
+      <webElementGuid>865f107e-9c43-4acf-85c1-817a0a39ae86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <value>
 			             Social Media
 			          </value>
-      <webElementGuid>49287385-e61b-4c35-b9a8-684fa8a2d71d</webElementGuid>
+      <webElementGuid>1c601d92-da53-4ae1-95e8-ceaef8cdc213</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview&quot;]/a[1]</value>
-      <webElementGuid>b17c9762-e6c9-4edd-8a17-42b6f1ab7b05</webElementGuid>
+      <webElementGuid>77240bb3-cecd-4a6e-9aa2-e6eb3e0d8c2e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[1]/following::a[1]</value>
-      <webElementGuid>dd9c6216-042b-4969-8c75-5e7f0c488fbf</webElementGuid>
+      <webElementGuid>927cd8cb-c8b1-4812-9de1-101bad747395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer'])[1]/following::a[2]</value>
-      <webElementGuid>add2ac85-416e-4062-ad00-c353ddcde123</webElementGuid>
+      <webElementGuid>a26a3efc-4003-4d1c-9803-154939557d88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/preceding::a[1]</value>
-      <webElementGuid>9400cd1c-bb1d-4179-831b-8b0ab8b8ae9e</webElementGuid>
+      <webElementGuid>59252350-25d6-4772-9bfc-5cf06abdbb09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'social-media.php')]</value>
-      <webElementGuid>d05e83df-ebb3-4282-947c-3bd0290b6e1b</webElementGuid>
+      <webElementGuid>551d6781-c73c-4e3b-b5c4-d5b7487f5ae2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[11]/a</value>
-      <webElementGuid>8e0199cc-1275-4450-90db-6686e5855a4f</webElementGuid>
+      <webElementGuid>62960604-4b8f-4936-be84-35dd435031b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +107,6 @@
 			          ' or . = '
 			             Social Media
 			          ')]</value>
-      <webElementGuid>8b77af88-3ae3-44d0-80ce-948b4063a093</webElementGuid>
+      <webElementGuid>8db75066-6fc8-4a34-9b4a-2d712507d592</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

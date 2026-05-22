@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Color</name>
    <tag></tag>
-   <elementGuidId>b4e88895-dd78-4b45-a91c-25b39f415c06</elementGuidId>
+   <elementGuidId>31b523a5-9cad-44df-8e5a-4500fbb2813d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>ul.treeview-menu.menu-open > li:nth-of-type(2) > a</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Color')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.treeview-menu.menu-open > li:nth-of-type(2) > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2d9cfda9-26fb-4814-a447-4b756649e404</webElementGuid>
+      <webElementGuid>e56f583e-9eaa-4f60-b3bd-a0a655333b5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>color.php</value>
-      <webElementGuid>654942a7-1bc1-4ae6-b4d5-9cee6f6bb92a</webElementGuid>
+      <webElementGuid>dc0244dc-b99a-45a5-9e6b-ffc8f1c703cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Color</value>
-      <webElementGuid>5cd0999b-2445-4307-9ce8-95a13f2d6327</webElementGuid>
+      <webElementGuid>707eadf7-080d-4129-8e8b-a0d5f6e9fdd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview  active&quot;]/ul[@class=&quot;treeview-menu menu-open&quot;]/li[2]/a[1]</value>
-      <webElementGuid>8e35343c-802d-4149-a95b-dfe8eaa43695</webElementGuid>
+      <webElementGuid>299048c6-0e11-4519-b75f-9ea7fd929820</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Color')]</value>
-      <webElementGuid>17b84575-d731-4a05-abcb-184d1ac4fd4c</webElementGuid>
+      <webElementGuid>dbd0fe7d-6340-47bb-836a-acbd6918d68f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::a[1]</value>
-      <webElementGuid>7e3f845b-99fb-452b-a4a1-665330774c90</webElementGuid>
+      <webElementGuid>2e87e84c-2f4c-435c-8b5b-5751648c6632</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Settings'])[1]/following::a[2]</value>
-      <webElementGuid>bbd504fa-ac9e-4479-9d4e-7081a5f998ee</webElementGuid>
+      <webElementGuid>ce7aebcc-0742-485f-b728-323e3953cbe8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/preceding::a[1]</value>
-      <webElementGuid>41b84db2-5856-4061-a49f-78b12f34aebf</webElementGuid>
+      <webElementGuid>d4817f0d-9ab9-4e3f-81d7-e148ad7c4b04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Cost'])[1]/preceding::a[2]</value>
-      <webElementGuid>e2ee9177-d850-484a-9dca-c7811fcdfe39</webElementGuid>
+      <webElementGuid>5b8dcb4b-85ec-46ef-aaa1-42fba69b08e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Color']/parent::*</value>
-      <webElementGuid>0c77e0e4-9c40-4bad-9975-e95946a6f98d</webElementGuid>
+      <webElementGuid>e5dfe71b-74c7-4b60-a53c-3989364c0bbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'color.php')]</value>
-      <webElementGuid>1095691e-b75a-401e-8480-fc14793401af</webElementGuid>
+      <webElementGuid>175dcb0d-a384-4563-944e-1fd06c2bed7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li[2]/a</value>
-      <webElementGuid>340d43a3-f031-4838-a482-80a0de3e4cff</webElementGuid>
+      <webElementGuid>5d587ba7-ff75-4465-9b1f-34e81bfd6600</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'color.php' and (text() = ' Color' or . = ' Color')]</value>
-      <webElementGuid>cb36978a-4894-42e4-95b4-f1729a0d2168</webElementGuid>
+      <webElementGuid>bc9beca9-c7ac-4ab4-be8d-ad7e268e834d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

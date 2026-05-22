@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2c9fc650-8619-47b8-8f2c-71110cf0a5ef</webElementGuid>
+      <webElementGuid>f6d41642-9c51-4a15-b69c-b70a70b38f2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>63890109-2f10-4b65-9ad9-69d59e04b522</webElementGuid>
+      <webElementGuid>da4cebbe-e780-4273-93c1-7574d0ec4a6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Email address</value>
-      <webElementGuid>cf42c3c8-7d37-49f7-b2a6-574d7a3a0c7d</webElementGuid>
+      <webElementGuid>9bb693d9-43fd-4410-8b1a-57881bd60814</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>38489433-e94c-4806-9e0f-6cf2373b78cc</webElementGuid>
+      <webElementGuid>325f3a77-8699-45af-a350-5e2de7de0ca2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>edd52d70-883a-4474-a0ae-088554a0d756</webElementGuid>
+      <webElementGuid>ffacd5ab-9b7d-4f73-93ad-179afeb048fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>3b4994ad-e7a5-4d13-a353-397c497ae008</webElementGuid>
+      <webElementGuid>dd52254b-49bf-4bc7-938f-56d471471687</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;login-page sidebar-mini&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;login-box-body&quot;]/form[1]/div[@class=&quot;form-group has-feedback&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>3c2bf0c1-8f55-4899-b844-8860db5f6991</webElementGuid>
+      <webElementGuid>b1b6dd47-b721-4bdf-81b5-92484348e9c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='email']</value>
-      <webElementGuid>99bea883-c53e-4d1f-b63b-5c38a4cca8ba</webElementGuid>
+      <webElementGuid>91aa8399-2718-4300-a83b-9449ef78a9be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>298112b9-b135-49ff-a62c-4380099122cb</webElementGuid>
+      <webElementGuid>b0e59f26-8e58-4ad4-b89e-76f210632448</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Email address' and @name = 'email' and @type = 'email']</value>
-      <webElementGuid>2eca6ea5-9f08-4f5f-8877-79f43c5d7fad</webElementGuid>
+      <webElementGuid>40c92edf-6f3b-492c-86fa-6049643571c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

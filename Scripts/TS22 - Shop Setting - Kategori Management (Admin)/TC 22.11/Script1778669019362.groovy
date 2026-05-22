@@ -30,20 +30,24 @@ WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori M
 WebUI.setEncryptedText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Login/input_Admin Panel_password'), 
     '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Login/div_Admin Panel_col-xs-4'))
-
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Login/input_Admin Panel_form1'))
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/i_Shop Settings_fa fa-angle-left pull-right'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/span_Shop Settings'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/a_Mid Level Category'))
 
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/h1_View Mid Level Categories'))
+
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/a_Add New'))
+
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/h1_Add Mid Level Category'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/span_Select Top Level Category'))
 
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/input__mcat_name'))
+
 WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/input__mcat_name'), 
-    'Skincare')
+    'Ponsel')
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.11/Page_Admin Panel/button_Submit'))
 

@@ -29,7 +29,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/TS22 - Shop Setting - K
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Login/input_Admin Panel_form1'))
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/a_Shop Settings'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/span_Shop Settings'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/a_Top Level Category'))
 
@@ -37,11 +37,7 @@ WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Man
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/a_Add New'))
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/input__tcat_name'))
-
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/p_Top Category Name can not be empty'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/h1_Add Top Level Category'))
 
 WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/input__tcat_name'), 
     'Kids')
@@ -49,6 +45,12 @@ WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori M
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/button_Submit'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/p_Top Category Name already exists'))
+
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/input__tcat_name'))
+
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/button_Submit'))
+
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.10/Page_Admin Panel/p_Top Category Name can not be empty'))
 
 WebUI.closeBrowser()
 

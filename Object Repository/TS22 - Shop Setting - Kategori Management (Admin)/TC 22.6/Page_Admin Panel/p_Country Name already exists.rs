@@ -3,7 +3,7 @@
    <description></description>
    <name>p_Country Name already exists</name>
    <tag></tag>
-   <elementGuidId>c803a3d8-e3a9-4ab4-a65d-780c5b0caf26</elementGuidId>
+   <elementGuidId>01d8c416-ea03-4b25-80f9-740fd5033495</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>5246851b-e442-42a2-ba3e-6a6985e4f432</webElementGuid>
+      <webElementGuid>838fdad8-09ad-4426-a404-c7d739034395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 			Country Name already exists			</value>
-      <webElementGuid>fafc30d2-6c56-4793-bf31-d2e307ae5660</webElementGuid>
+      <webElementGuid>e030eb0f-d018-42a9-aafb-b2c027482299</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-danger&quot;]/p[1]</value>
-      <webElementGuid>20965c5f-16fa-4296-a659-9cb14eadfe4b</webElementGuid>
+      <webElementGuid>b4cff970-6642-42ff-9fbb-61a74a0f2218</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>a7b932e4-e831-4137-a1ed-39bdfb899c5e</webElementGuid>
+      <webElementGuid>a0be8c25-cb3a-42e0-978c-e18b8f3dbcc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Country'])[1]/following::p[1]</value>
-      <webElementGuid>2d50f3f7-79df-42e7-980b-d77e22b52e43</webElementGuid>
+      <webElementGuid>ad18a927-fd30-4109-a5d8-142c4f12fec6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>ae68cc17-405c-4180-a9b8-6594717094c6</webElementGuid>
+      <webElementGuid>daef8703-3ead-450d-bb86-a245a1701b3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Country Name already exists']/parent::*</value>
-      <webElementGuid>e31c1c94-4850-41c2-bded-0edd62b5f767</webElementGuid>
+      <webElementGuid>d9ad2ebb-91bd-4a2b-8968-b03d34b73060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>eb186e36-db01-46ed-9373-095208b37d67</webElementGuid>
+      <webElementGuid>62831726-8bb6-4054-ae15-6d325ccedebb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
       <value>//p[(text() = '
 			Country Name already exists			' or . = '
 			Country Name already exists			')]</value>
-      <webElementGuid>5e80f5e2-687e-4499-91c1-d619e9250b03</webElementGuid>
+      <webElementGuid>23017fd5-f243-47f4-9345-7ba17f8f7c80</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

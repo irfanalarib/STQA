@@ -3,7 +3,7 @@
    <description></description>
    <name>p_Color Name already exists</name>
    <tag></tag>
-   <elementGuidId>bc739d10-2151-499e-bb7f-f9c925ac62a3</elementGuidId>
+   <elementGuidId>0dcdcb5b-a6a1-41b8-82ad-d1a80cebdcbc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>718df88e-334e-4bfb-9ca0-127742021146</webElementGuid>
+      <webElementGuid>c1e1c415-3b3a-42ea-a5fc-3a897d5e8b9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 			Color Name already exists			</value>
-      <webElementGuid>d41af362-4c32-46a2-9abc-9a64d59e5aa6</webElementGuid>
+      <webElementGuid>606ffeb8-c02b-4306-afee-997a5f2729d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-danger&quot;]/p[1]</value>
-      <webElementGuid>39d9ed94-f577-4223-b8ac-328a6d06bf98</webElementGuid>
+      <webElementGuid>62ef2889-9f01-4633-9f9a-a6fed0d36d5d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>7aee7139-309d-4ad4-aff1-3dbf9a69e134</webElementGuid>
+      <webElementGuid>3cf1bc5a-18f5-45fb-94e8-b7c3d0c64501</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Color'])[1]/following::p[1]</value>
-      <webElementGuid>55b55282-63c6-4059-a8d8-bc5d94690b29</webElementGuid>
+      <webElementGuid>312d0f40-cac8-49ff-988e-c6d603a81b3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>68cae515-0598-4318-ad8d-924218b2bb8c</webElementGuid>
+      <webElementGuid>6f48b16a-9f67-47f1-a88d-4a11c65331df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Color Name already exists']/parent::*</value>
-      <webElementGuid>7143805e-62ff-4cdf-8e73-be606a57757b</webElementGuid>
+      <webElementGuid>d6a7f506-4111-45b9-bd63-e19a2ec4e7a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>8475152e-5408-45af-af00-3d1ef921fbda</webElementGuid>
+      <webElementGuid>5d718525-fa80-42b9-9509-5d0aaf6266f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
       <value>//p[(text() = '
 			Color Name already exists			' or . = '
 			Color Name already exists			')]</value>
-      <webElementGuid>f1bf67ac-d2cd-46da-b649-5e4d8dad372b</webElementGuid>
+      <webElementGuid>71bbf8b9-83b3-48b1-8670-dc5408eeab26</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

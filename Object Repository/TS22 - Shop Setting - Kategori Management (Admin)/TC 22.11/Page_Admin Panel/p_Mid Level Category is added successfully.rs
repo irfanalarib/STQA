@@ -3,7 +3,7 @@
    <description></description>
    <name>p_Mid Level Category is added successfully</name>
    <tag></tag>
-   <elementGuidId>3a68bfb8-3eb1-457f-8435-5564b4560c70</elementGuidId>
+   <elementGuidId>b02b783b-ae40-4299-b509-5d7536914fdc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>35271688-349d-47e7-8632-fca33a590078</webElementGuid>
+      <webElementGuid>5a341b89-96f7-4825-91fe-0d8f2f95ae2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mid Level Category is added successfully.</value>
-      <webElementGuid>34b75d8f-ce6c-406b-a6a3-191fa74802e3</webElementGuid>
+      <webElementGuid>1d2ff24e-a58e-4fd1-97a7-adca8562d046</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-success&quot;]/p[1]</value>
-      <webElementGuid>3b8c7c2e-3a72-4a09-aaca-31801bc93ed6</webElementGuid>
+      <webElementGuid>bae31f2d-3c92-4748-a517-b49ce7c593a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>6f019cad-f46b-4ab9-8de7-dc71723ac0c7</webElementGuid>
+      <webElementGuid>f940de9d-85ae-4d43-8166-23a01da8df2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Mid Level Category'])[1]/following::p[1]</value>
-      <webElementGuid>a85e13a7-0127-434d-b270-99c1c2138caf</webElementGuid>
+      <webElementGuid>9299f364-d075-48e8-8711-63b7556f58ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>922305f2-08a8-449c-9e24-75676536d552</webElementGuid>
+      <webElementGuid>07a1f248-e944-4b34-a66f-30b598730cb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mid Level Category is added successfully.']/parent::*</value>
-      <webElementGuid>bbca702d-2605-4ac5-bb40-61f4615c85bd</webElementGuid>
+      <webElementGuid>8e3ff47f-9e94-4f06-8e99-de7386033457</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>860a0667-645b-4692-81ec-25bffac59975</webElementGuid>
+      <webElementGuid>6349adfe-0ba8-4e65-890e-e728969b4867</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Mid Level Category is added successfully.' or . = 'Mid Level Category is added successfully.')]</value>
-      <webElementGuid>bc125c03-aded-4115-878b-3f2cb8372a7e</webElementGuid>
+      <webElementGuid>b40b993a-0138-4d92-a6b8-8ed7ac362e17</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

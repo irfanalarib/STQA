@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Size</name>
    <tag></tag>
-   <elementGuidId>e3cceda3-aabe-49d8-886c-b8c71eea1ed2</elementGuidId>
+   <elementGuidId>3d0b7462-3e64-4487-9fb9-55fa0aa2f99b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Size')]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>ul.treeview-menu.menu-open > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Size')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7ebf8f1a-fe45-4417-b5fb-97b9d783ccd4</webElementGuid>
+      <webElementGuid>030495f1-cbbc-4160-a0df-b306e34cc4b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>size.php</value>
-      <webElementGuid>dd7b2a79-a2d1-4f8f-9c50-36186ffa0d5e</webElementGuid>
+      <webElementGuid>a6f8628a-0b69-425b-87a9-71756344a3aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Size</value>
-      <webElementGuid>eae9099e-15c3-4063-b8e1-62a1908a0a07</webElementGuid>
+      <webElementGuid>1bf5e587-fa41-49d4-92cc-c5b4dfd4fafd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview  active&quot;]/ul[@class=&quot;treeview-menu menu-open&quot;]/li[1]/a[1]</value>
-      <webElementGuid>cae54fcd-9df4-4a1b-bde1-20e5e80168e0</webElementGuid>
+      <webElementGuid>1a6b7374-926f-4798-b714-9a9bd78c8d6a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Size')]</value>
-      <webElementGuid>8158f882-2308-46dd-9c55-2a858c9b0978</webElementGuid>
+      <webElementGuid>06a363ae-412e-4df6-b2a2-2baf1f93fa54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Settings'])[1]/following::a[1]</value>
-      <webElementGuid>9131fcab-354f-4bf0-b2c5-a3e687264d36</webElementGuid>
+      <webElementGuid>03e45cd4-ea3b-404a-8602-abd8d9323173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Website Settings'])[1]/following::a[2]</value>
-      <webElementGuid>798000a5-44cb-49aa-9824-bdf88aa88b0e</webElementGuid>
+      <webElementGuid>add1efc6-804b-49ef-b4b7-041b64e61f2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/preceding::a[1]</value>
-      <webElementGuid>3d548514-3abb-400b-84bb-d1b74c6caf0d</webElementGuid>
+      <webElementGuid>c470b1dc-0a7c-4e87-8227-6f009c3e53ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/preceding::a[2]</value>
-      <webElementGuid>de8e0d27-7d65-4f6e-86dc-cd93a68a369f</webElementGuid>
+      <webElementGuid>2b3227f9-3601-478e-ac5f-2c09c75a06c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Size']/parent::*</value>
-      <webElementGuid>b4efbd35-5f4c-46a8-8aa9-9525109d59b9</webElementGuid>
+      <webElementGuid>0d347543-82ad-43fe-b687-efe26b37211d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'size.php')]</value>
-      <webElementGuid>0030c056-9730-4f80-9200-78b84e65024d</webElementGuid>
+      <webElementGuid>2e8cc55a-ed84-4a87-93c0-cc0524203168</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li/a</value>
-      <webElementGuid>e5571548-c0b9-482a-a26e-93f43bdde5b4</webElementGuid>
+      <webElementGuid>acddbf78-dcc3-4387-87c3-58cc6d3b875b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'size.php' and (text() = ' Size' or . = ' Size')]</value>
-      <webElementGuid>e7097189-cdd7-4396-a71c-c9cf81672405</webElementGuid>
+      <webElementGuid>f4356309-0547-4a79-9b7e-4cd8d829318e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

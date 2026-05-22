@@ -21,41 +21,28 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://fashionys.com/admin/login.php')
 
-WebUI.setText(findTestObject('null'), 
+WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Login/input_Admin Panel_email'), 
     'hammad.shahir@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('null'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Login/input_Admin Panel_password'), 
     '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Login/input_Admin Panel_form1'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Admin Panel/span_Shop Settings'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Admin Panel/a_Size'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Admin Panel/h1_View Sizes'))
 
-WebUI.setText(findTestObject('null'), 
-    '70')
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Admin Panel/a_Add New'))
 
-WebUI.click(findTestObject('null'))
+WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Admin Panel/input__size_name'), 
+    '2L')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Admin Panel/button_Submit'))
 
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.setText(findTestObject('null'), 
-    '71')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.1/Page_Admin Panel/p_Size is added successfully'))
 
 WebUI.closeBrowser()
 

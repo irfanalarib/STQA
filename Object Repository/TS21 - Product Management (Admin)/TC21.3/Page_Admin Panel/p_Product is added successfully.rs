@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>a2c1d731-94bd-4bdf-a383-dc7a68b8c5c9</webElementGuid>
+      <webElementGuid>6d07a538-7857-458f-94ad-c601f8a3e9fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Product is added successfully.</value>
-      <webElementGuid>0e6f74c8-4c5c-4ee0-b87d-36db8bc2eead</webElementGuid>
+      <webElementGuid>3e8760ef-03c0-49ec-88a8-67fb7dd8576c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-success&quot;]/p[1]</value>
-      <webElementGuid>4e56be2a-d575-434c-961e-7f29bf438b70</webElementGuid>
+      <webElementGuid>362271b5-9e0d-4689-96ea-540926b81277</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>7f0ad5a6-5eac-4dc8-838c-54b664c560df</webElementGuid>
+      <webElementGuid>c439b155-ef02-43da-a3dd-b0c3e1db84af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Product'])[1]/following::p[1]</value>
-      <webElementGuid>0037864e-b9fa-4720-9753-2ede6185d251</webElementGuid>
+      <webElementGuid>88ec473c-81e3-4af6-b10a-093420969a06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>0c8e06f6-9396-4926-b090-35636fd3f650</webElementGuid>
+      <webElementGuid>f041c2bb-18d2-40de-8e1d-ea736330dbf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Product is added successfully.']/parent::*</value>
-      <webElementGuid>ca173e77-0290-47fa-ba94-0ac917be2e4b</webElementGuid>
+      <webElementGuid>deec86b5-d783-4920-ab24-089b7768c0fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>819d8a61-20af-4fc5-9c6c-a95bb37da05b</webElementGuid>
+      <webElementGuid>f83757af-b2e7-4f65-bd61-ab7626a5104c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Product is added successfully.' or . = 'Product is added successfully.')]</value>
-      <webElementGuid>61a9a08b-2568-4a76-8336-848ccf5b4fd9</webElementGuid>
+      <webElementGuid>0eda7a34-72e7-44c1-ab09-249399e2e9a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

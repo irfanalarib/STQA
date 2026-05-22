@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Country</name>
    <tag></tag>
-   <elementGuidId>bb8854fc-025c-47ba-bdf8-a8291630c41b</elementGuidId>
+   <elementGuidId>e2e8a93f-e1ea-425c-b6f4-250db46bdeed</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>63a8fd9c-4fad-4ceb-a62e-650f5748d35a</webElementGuid>
+      <webElementGuid>10c6a7e4-6ce1-47d5-9b76-99805de2cf4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>country.php</value>
-      <webElementGuid>35636ad8-b35f-4d6d-ac13-8346c4e0f33c</webElementGuid>
+      <webElementGuid>c774ed81-abaa-45e8-9585-1d2b784af40b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Country</value>
-      <webElementGuid>f7156441-54dc-4f1a-8f4d-37d388f200dd</webElementGuid>
+      <webElementGuid>1c13116e-3845-47d3-a96b-b848a2dab5aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview  active&quot;]/ul[@class=&quot;treeview-menu menu-open&quot;]/li[3]/a[1]</value>
-      <webElementGuid>6e5ebb61-1000-4a17-8238-f4ae21ff180c</webElementGuid>
+      <webElementGuid>982e787e-f4ae-4d8b-90ab-cc352151aee9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Country')]</value>
-      <webElementGuid>d4c84e9d-71ba-46d3-b2fa-125af9bf697a</webElementGuid>
+      <webElementGuid>cec838ac-620f-4f5f-8513-2aff7bf5e82a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/following::a[1]</value>
-      <webElementGuid>f6dd1e1a-74a3-4c15-af12-53f74dc20396</webElementGuid>
+      <webElementGuid>1bbeec0f-9076-4859-84e7-ef9e476c8a40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::a[2]</value>
-      <webElementGuid>50e47df0-4147-458b-8298-ae25b9c4c4bb</webElementGuid>
+      <webElementGuid>b8461f0f-9814-4984-aa64-a54fd4a9d46d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Cost'])[1]/preceding::a[1]</value>
-      <webElementGuid>070a4937-77c7-4794-aeac-d2c0814b3271</webElementGuid>
+      <webElementGuid>3de61906-ccdd-403f-95d8-eed077300ec3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Level Category'])[1]/preceding::a[2]</value>
-      <webElementGuid>ec128f59-4194-4fcc-862e-5140e12aa6c0</webElementGuid>
+      <webElementGuid>a761ef68-8dee-4a7e-adc3-92882c5812e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Country']/parent::*</value>
-      <webElementGuid>9d50c136-19c0-4660-b58a-2be818ab3fe3</webElementGuid>
+      <webElementGuid>f6701a3d-bca6-4f84-82ce-e63a34a0cff2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'country.php')]</value>
-      <webElementGuid>eb6a8b73-ccd6-4c14-8861-2112817d70f4</webElementGuid>
+      <webElementGuid>799ea25f-1dfd-400d-afc8-6630cdfab7f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li[3]/a</value>
-      <webElementGuid>dc9fd314-f81a-4f3e-b05d-14ceacfef4a7</webElementGuid>
+      <webElementGuid>681f2fab-a379-4317-a2a4-12a92a65ae71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'country.php' and (text() = ' Country' or . = ' Country')]</value>
-      <webElementGuid>36de2de8-4c3f-4c69-8a0d-c337f5f9ea17</webElementGuid>
+      <webElementGuid>24ab0824-9b32-445a-9ca0-464bcc0b0363</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>p_Top Category Name already exists</name>
    <tag></tag>
-   <elementGuidId>8e0a40a6-1f96-43d6-97d7-10a0911f02e5</elementGuidId>
+   <elementGuidId>a9fe57a5-2f7e-4e45-b0c4-b76ff63bce5f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>p</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>0d9f6d7b-49b9-4054-8ee2-53631c7a1746</webElementGuid>
+      <webElementGuid>2e845599-ebcc-4a00-9893-5cdba056ba16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 			Top Category Name already exists			</value>
-      <webElementGuid>98efa4e6-e3a7-4b1a-a649-65eba5eafff1</webElementGuid>
+      <webElementGuid>17f9e97c-f02b-43c1-9a0b-2765dce19f9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-danger&quot;]/p[1]</value>
-      <webElementGuid>785da32c-7cd3-4cdd-88e6-479d87b6abd5</webElementGuid>
+      <webElementGuid>0a1ed5e9-d00f-4921-8869-6d78761f95dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>255f15d8-636a-412f-890e-e899c3edfbd6</webElementGuid>
+      <webElementGuid>329b8e17-1e08-4c90-94bf-62597e1d6d26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Top Level Category'])[1]/following::p[1]</value>
-      <webElementGuid>c5f46840-c8ba-460e-9025-0dc6db42efe2</webElementGuid>
+      <webElementGuid>fd85e4e0-ed41-48c3-bb7d-11328a0a5326</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>85c34fa8-8bd7-48d4-91c7-a0108dcd9376</webElementGuid>
+      <webElementGuid>3f535cb0-b31c-47ff-8534-b106f7a4ccce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Top Category Name already exists']/parent::*</value>
-      <webElementGuid>4a74e5e3-9d08-49e2-8dc5-3b38555486d9</webElementGuid>
+      <webElementGuid>4e915387-a504-47b6-92a9-c790d1e79c70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>6fc4fb89-0aa3-4751-9fb4-8789487e37c0</webElementGuid>
+      <webElementGuid>97182cac-20ed-4d32-bf5b-9fa4e805dae9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
       <value>//p[(text() = '
 			Top Category Name already exists			' or . = '
 			Top Category Name already exists			')]</value>
-      <webElementGuid>1eeeee0e-22dc-4e3e-b360-6b57cdda8935</webElementGuid>
+      <webElementGuid>3896a29b-ec33-4259-907d-cca557b33a3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

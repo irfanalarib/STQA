@@ -3,14 +3,14 @@
    <description></description>
    <name>document</name>
    <tag></tag>
-   <elementGuidId>81b12ade-0dfc-44a7-a8a4-fe973cfdabba</elementGuidId>
+   <elementGuidId>bcb7fac6-fa11-4ec9-b31f-bf8a99c50545</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
+         <key>CSS</key>
          <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
          <value></value>
       </entry>
    </selectorCollection>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>document</value>
-      <webElementGuid>c07e220e-1a40-42bb-afb0-5717e6df7d11</webElementGuid>
+      <webElementGuid>137e3b3d-3f94-4f56-810b-eb4cac0c43b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,6 +31,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>bdfa7c41-3adc-4a3a-9a25-fd649b629bc9</webElementGuid>
+      <webElementGuid>79167e07-157a-4d5d-8f75-190c62e8ef9e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -37,16 +37,18 @@ WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Man
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/a_Add New'))
 
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/h1_Add Color'))
+
+WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/input__color_name'), 
+    'White')
+
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/button_Submit'))
+
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/p_Color Name already exists'))
+
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/input__color_name'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/button_Submit'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/p_Color Name can not be empty'))
-
-WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/input__color_name'), 
-    'Brown')
-
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.4/Page_Admin Panel/p_Color Name already exists'))
 

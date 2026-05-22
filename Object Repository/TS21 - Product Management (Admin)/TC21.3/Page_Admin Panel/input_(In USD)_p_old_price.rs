@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5680399f-6981-4c47-b881-9cde9cacc330</webElementGuid>
+      <webElementGuid>8ceb933e-a579-4b14-baa0-79a4fd8874cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9bdb9c80-769d-4eae-a9a5-bed7c354244a</webElementGuid>
+      <webElementGuid>d37b3db1-6f55-4ac8-b4a0-238ad2929a56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>p_old_price</value>
-      <webElementGuid>07bc33d7-5ea5-44df-9a57-210ce78b227b</webElementGuid>
+      <webElementGuid>76e81b51-0199-42d1-b088-6c74d8355c44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>cd57ba0c-d3a6-43a4-9d3f-77e28711d8b4</webElementGuid>
+      <webElementGuid>c10b5e3d-533d-4aa7-bba4-9348bd859f27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>b9b58a70-1812-490e-8080-7c73d45f58e7</webElementGuid>
+      <webElementGuid>396bb749-f236-43d0-af48-2215b297a871</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='p_old_price']</value>
-      <webElementGuid>25b0d5d7-e41c-49b7-8f65-225e32408b58</webElementGuid>
+      <webElementGuid>8e494df1-7ed9-4d17-a208-ac3cc9e1e283</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/input</value>
-      <webElementGuid>c5000ff4-117e-4f6a-81fe-493776246dcc</webElementGuid>
+      <webElementGuid>013c1f13-a685-44bb-8a4d-b88715813564</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'p_old_price']</value>
-      <webElementGuid>c48199da-7f11-4029-9eeb-b5e403e4df6b</webElementGuid>
+      <webElementGuid>91cf9971-e3d8-401b-95c9-c589ef60b195</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

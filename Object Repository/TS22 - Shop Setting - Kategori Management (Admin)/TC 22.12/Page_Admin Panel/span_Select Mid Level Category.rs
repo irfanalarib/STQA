@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Select Mid Level Category</name>
    <tag></tag>
-   <elementGuidId>270f05c4-0cd9-4189-8dbf-a95bca796457</elementGuidId>
+   <elementGuidId>eb43940c-e452-4c77-910c-e40c55f9fc18</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-mcat_id-rj-container']</value>
+         <value>//span[@id='select2-mcat_id-wu-container']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#select2-mcat_id-rj-container</value>
+         <value>#select2-mcat_id-wu-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>38c07c49-d94c-4b26-b49d-35d7d5a8a286</webElementGuid>
+      <webElementGuid>1a36a623-4adf-403e-be3b-1f9994179f69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>72247a74-e2ab-4391-8241-a90f79c1c098</webElementGuid>
+      <webElementGuid>6846ac60-fecc-48c4-b49a-6c3f6a581db3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-mcat_id-rj-container</value>
-      <webElementGuid>1c6884f0-0c26-4534-aa8f-4c5a86e324ec</webElementGuid>
+      <value>select2-mcat_id-wu-container</value>
+      <webElementGuid>b56a1791-b4e8-4869-87c9-38b084d56e94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Select Mid Level Category</value>
-      <webElementGuid>9a3ac080-663a-43b0-8b52-995f17b06942</webElementGuid>
+      <webElementGuid>6410493a-c2dc-4f42-8029-5748f83038cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,23 +61,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Mid Level Category</value>
-      <webElementGuid>768dc7e0-27a7-42bc-b760-6bea41dc21f1</webElementGuid>
+      <webElementGuid>6fe45e0d-49d2-4b41-91ac-33feae5cde74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-mcat_id-rj-container&quot;)</value>
-      <webElementGuid>e8ec7400-5850-489b-aff9-13a31ffae812</webElementGuid>
+      <value>id(&quot;select2-mcat_id-wu-container&quot;)</value>
+      <webElementGuid>e5bec94f-b99f-48d6-883c-4f045b85b9cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='select2-mcat_id-rj-container']</value>
-      <webElementGuid>ac9f85c5-6243-4d70-a801-4d3c03e3c1c3</webElementGuid>
+      <value>//span[@id='select2-mcat_id-wu-container']</value>
+      <webElementGuid>b358d5cf-6b97-429a-b3c4-fe133740ea7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[4]</value>
-      <webElementGuid>5023cd7b-7703-47df-9c17-280abb362500</webElementGuid>
+      <webElementGuid>c5401f3b-fb08-44a4-a929-95d80a89d716</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::span[3]</value>
-      <webElementGuid>1c17e40d-3e94-4996-95b7-31183ead4d8a</webElementGuid>
+      <webElementGuid>6adc8cf6-ea72-42e2-ab12-115841616d9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,14 +101,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/span/span/span/span</value>
-      <webElementGuid>251297e6-aecc-40f5-9088-4093b2e029ee</webElementGuid>
+      <webElementGuid>0f607417-2fbf-4e53-ad26-9467407d5582</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'select2-mcat_id-rj-container' and @title = 'Select Mid Level Category' and (text() = 'Select Mid Level Category' or . = 'Select Mid Level Category')]</value>
-      <webElementGuid>81b402d0-0d02-4926-b46a-cb017459ed81</webElementGuid>
+      <value>//span[@id = 'select2-mcat_id-wu-container' and @title = 'Select Mid Level Category' and (text() = 'Select Mid Level Category' or . = 'Select Mid Level Category')]</value>
+      <webElementGuid>911fa1b6-9935-42db-8bc4-6c9542ca0ee2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

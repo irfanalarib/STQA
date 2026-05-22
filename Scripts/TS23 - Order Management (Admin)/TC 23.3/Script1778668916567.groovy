@@ -29,7 +29,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/TS23 - Order Management
 
 WebUI.click(findTestObject('Object Repository/TS23 - Order Management (Admin)/TC 23.3/Page_Login/input_Admin Panel_form1'))
 
-WebUI.click(findTestObject('Object Repository/TS23 - Order Management (Admin)/TC 23.3/Page_Admin Panel/a_Orders Management'))
+WebUI.click(findTestObject('Object Repository/TS23 - Order Management (Admin)/TC 23.3/Page_Admin Panel/span_Orders Management'))
 
 WebUI.click(findTestObject('Object Repository/TS23 - Order Management (Admin)/TC 23.3/Page_Admin Panel/h1_View Orders'))
 
@@ -38,10 +38,10 @@ WebUI.click(findTestObject('Object Repository/TS23 - Order Management (Admin)/TC
 WebUI.click(findTestObject('Object Repository/TS23 - Order Management (Admin)/TC 23.3/Page_Admin Panel/a_Send Message'))
 
 WebUI.setText(findTestObject('Object Repository/TS23 - Order Management (Admin)/TC 23.3/Page_Admin Panel/input_Subject_subject_text'), 
-    'Pesanan')
+    'hi')
 
 WebUI.setText(findTestObject('Object Repository/TS23 - Order Management (Admin)/TC 23.3/Page_Admin Panel/textarea_Message_message_text'), 
-    'Halo orderan kamu siap di antar')
+    'hi')
 
 WebUI.click(findTestObject('Object Repository/TS23 - Order Management (Admin)/TC 23.3/Page_Admin Panel/input_Message_form1'))
 

@@ -3,7 +3,7 @@
    <description></description>
    <name>input__color_name</name>
    <tag></tag>
-   <elementGuidId>d0fe8a7b-c334-4161-86f0-a1c1fe3b4951</elementGuidId>
+   <elementGuidId>974cadda-1344-41fd-87d6-ceb932fe846d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>575948e7-f47a-4de5-a20a-6d047046c7c0</webElementGuid>
+      <webElementGuid>89d528a5-759d-4848-9cce-c48405a9cbbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1359bd2f-f5f8-4bbd-af45-35823de53216</webElementGuid>
+      <webElementGuid>77c995bc-9690-4745-95d8-1a3dc0d1e37a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>d21c2313-d55a-4f77-8c7d-5ec7fe13e2df</webElementGuid>
+      <webElementGuid>4303f616-f079-490f-ab54-8f56b660b51c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>color_name</value>
-      <webElementGuid>3a52f487-1aef-453b-8afb-afaba0cdcecb</webElementGuid>
+      <webElementGuid>2e5eece5-5029-4c95-a8ac-19a349bfc0e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>6cff97bb-1930-4961-9e6d-c0e93324eb80</webElementGuid>
+      <webElementGuid>d4ce980f-aae3-45ec-b7b9-ab358175f5fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='color_name']</value>
-      <webElementGuid>b4abec37-688b-400a-bdf4-16ef26348a74</webElementGuid>
+      <webElementGuid>62342577-b716-4c94-924c-5b221b534e37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>4addd90e-52fc-4e8d-b0bb-fcb994bdc6b1</webElementGuid>
+      <webElementGuid>ae09517f-45db-482f-9bf5-dbcf5777f9d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'color_name']</value>
-      <webElementGuid>3ba39ad0-ac7a-4c86-9e78-eedb5241a23e</webElementGuid>
+      <webElementGuid>f3347f4f-bd7c-497d-9760-67527f3768f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

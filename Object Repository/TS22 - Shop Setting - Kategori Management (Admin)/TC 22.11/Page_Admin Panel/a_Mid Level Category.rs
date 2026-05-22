@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Mid Level Category</name>
    <tag></tag>
-   <elementGuidId>a78dcaf6-e572-47a4-a53d-c3f0d90bc6a8</elementGuidId>
+   <elementGuidId>93d7d871-5a33-421b-a7cc-456fe4a28607</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>72c972ba-5efa-4134-97bd-c76fe3b4d997</webElementGuid>
+      <webElementGuid>93ea3468-6c97-49ed-b3a7-cbca407ce21d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>mid-category.php</value>
-      <webElementGuid>0f0e7554-5b6b-48fd-98c8-7c84e70e7119</webElementGuid>
+      <webElementGuid>2ce24fac-bf1e-4abe-b641-f89df2ecb804</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Mid Level Category</value>
-      <webElementGuid>310a7959-361d-4a36-bf72-4ff765ebbb37</webElementGuid>
+      <webElementGuid>a7221595-96ac-44e0-b09b-83f815e07c95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview  active&quot;]/ul[@class=&quot;treeview-menu menu-open&quot;]/li[6]/a[1]</value>
-      <webElementGuid>f9e53980-6dee-4484-88d0-5deb5099854b</webElementGuid>
+      <webElementGuid>166dde78-9418-48d6-a447-8a547bfaa84e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Mid Level Category')]</value>
-      <webElementGuid>774dd8cf-10b2-4564-8533-b9b49fac8700</webElementGuid>
+      <webElementGuid>7a830b1c-371f-4f61-a3a9-102812202772</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Level Category'])[1]/following::a[1]</value>
-      <webElementGuid>aba5317c-7e18-4543-a82c-c3ded5601536</webElementGuid>
+      <webElementGuid>1cdb364c-1bc2-4706-a2ef-d10426852bb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Cost'])[1]/following::a[2]</value>
-      <webElementGuid>4298d12d-4098-4447-ad0f-95dd6343eb4d</webElementGuid>
+      <webElementGuid>fb5d437c-c7f1-4b0b-828f-de8e4089f123</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End Level Category'])[1]/preceding::a[1]</value>
-      <webElementGuid>664b4680-3cff-4509-824a-e53bb8cd3a48</webElementGuid>
+      <webElementGuid>5b72bb2a-78e2-47e2-ba11-c76f6527391a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View / Add Products'])[1]/preceding::a[2]</value>
-      <webElementGuid>53a7e993-702a-4aa2-8de9-cd56d8825abc</webElementGuid>
+      <webElementGuid>04d585ac-5e70-4798-9818-916f529a2a44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mid Level Category']/parent::*</value>
-      <webElementGuid>575ebe4a-952d-4291-8e4d-bf19f2126837</webElementGuid>
+      <webElementGuid>4901acf7-a757-4513-b810-8430468dec1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'mid-category.php')]</value>
-      <webElementGuid>94fc6006-57cd-4fe0-ac51-29527b675dda</webElementGuid>
+      <webElementGuid>7e8503fe-9e36-43e1-a04e-81aa4d6d5166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a</value>
-      <webElementGuid>806cc81a-11ac-485b-ac15-f5639a18e716</webElementGuid>
+      <webElementGuid>4b93f62e-9dad-4703-ad50-f010907d87ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'mid-category.php' and (text() = ' Mid Level Category' or . = ' Mid Level Category')]</value>
-      <webElementGuid>cfd663d2-b231-4060-8436-e4ba7e501509</webElementGuid>
+      <webElementGuid>52a63200-8724-4a2b-8924-a6520ab023ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

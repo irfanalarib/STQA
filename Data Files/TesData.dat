@@ -5,9 +5,9 @@
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
-   <csvSeperator>COMMA</csvSeperator>
+   <csvSeperator>SEMICOLON</csvSeperator>
    <dataFileGUID>f6db8eb3-e378-45f3-ad66-8c6c35e3d9e8</dataFileGUID>
-   <dataSourceUrl>C:\Users\Lenovo\Downloads\Tes_Data_Log_FashionYS.csv</dataSourceUrl>
+   <dataSourceUrl>../../Fashionys/DDT_Login_Scenario_Berurutan.csv</dataSourceUrl>
    <driver>CSV</driver>
    <isInternalPath>true</isInternalPath>
    <query></query>

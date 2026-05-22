@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Color</name>
    <tag></tag>
-   <elementGuidId>13970e96-b801-4def-9ba4-c8e1c215cd8e</elementGuidId>
+   <elementGuidId>17425191-2b8e-4d34-87f3-4dc308d4c2b5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6ae5df44-cafd-44ed-9474-7cb5149d366b</webElementGuid>
+      <webElementGuid>a9f82093-da8e-43c7-bc84-da2843ef320e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>color.php</value>
-      <webElementGuid>dc0c1374-7324-4cb7-ab1f-c5813dcf4d1c</webElementGuid>
+      <webElementGuid>31e51344-7a04-48eb-9ee7-ba1745b171da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Color</value>
-      <webElementGuid>8eddf740-ff3b-4e02-a474-985e9b6b2277</webElementGuid>
+      <webElementGuid>e7df5e15-e7ff-4361-a82c-4689d897dbd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview  active&quot;]/ul[@class=&quot;treeview-menu menu-open&quot;]/li[2]/a[1]</value>
-      <webElementGuid>83ab5fc2-f7be-4a4e-b593-e2924be39df8</webElementGuid>
+      <webElementGuid>473477c2-6e08-4561-ab4f-949fecb086ac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Color')]</value>
-      <webElementGuid>c077f0f5-b332-4cc7-ac4a-2bf3a125884e</webElementGuid>
+      <webElementGuid>51c327aa-484c-4cf2-a124-9534a0e195e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::a[1]</value>
-      <webElementGuid>ec9d39a0-80d0-4415-beda-2c4898b64d4f</webElementGuid>
+      <webElementGuid>9b9872f4-414c-435f-8aed-fa59e00f3756</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Settings'])[1]/following::a[2]</value>
-      <webElementGuid>1432cff7-0d40-48d0-a753-01eaf1a87157</webElementGuid>
+      <webElementGuid>13de9e7f-dc97-498d-a555-ee06eeb088cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/preceding::a[1]</value>
-      <webElementGuid>932a405c-7cff-48be-97c7-6a56063775e0</webElementGuid>
+      <webElementGuid>a1ec652f-9b7e-4b73-bc14-729bfde81130</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Cost'])[1]/preceding::a[2]</value>
-      <webElementGuid>706bad7f-eae7-45c4-a689-c98038f854f1</webElementGuid>
+      <webElementGuid>3b91d92e-0195-4a44-8a66-47179d4d1428</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Color']/parent::*</value>
-      <webElementGuid>ddf718fe-3ff3-4e8b-9ae9-79ef64e254bf</webElementGuid>
+      <webElementGuid>ef1ac1c2-63a2-429a-b7a9-f02a0c1b8384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'color.php')]</value>
-      <webElementGuid>0529f435-a315-43cf-8f1c-b5db3104fbf0</webElementGuid>
+      <webElementGuid>0a2f60c4-d1ea-4aa6-98c2-9083b2d04e30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li[2]/a</value>
-      <webElementGuid>8c2b0d98-a06e-4ee7-b172-edfa9051f3b8</webElementGuid>
+      <webElementGuid>db4cf6f7-c7e5-4147-8caa-1254f5eee141</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'color.php' and (text() = ' Color' or . = ' Color')]</value>
-      <webElementGuid>995aebf2-65cd-43d8-a9da-f4353633e45d</webElementGuid>
+      <webElementGuid>395339b8-c94b-44da-85be-e7192be02dc3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>832e4ffe-8ee7-405e-93e8-0503b79f9ac3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.btn.btn-warning.btn-xs</value>
+         <key>XPATH</key>
+         <value>//table[@id='example1']/tbody/tr/td[2]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[1]</value>
+         <key>CSS</key>
+         <value>a.btn.btn-warning.btn-xs</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f5c70f83-cabd-409c-90a0-8ad5ccfc917d</webElementGuid>
+      <webElementGuid>a136f659-01a7-48aa-a062-4a3a076941d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>a492252c-c444-4093-a43a-e2aed7ad18ba</webElementGuid>
+      <webElementGuid>fbe1849c-1168-498d-a268-6bbffa0662b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>f1889170-b6a6-4301-a59b-f242b587c5ca</webElementGuid>
+      <webElementGuid>119c5bac-2f3b-4c1f-a44e-ec45553fbf60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-target</name>
       <type>Main</type>
       <value>#model-1</value>
-      <webElementGuid>580ec092-1d70-4ea1-a968-2e20f216253f</webElementGuid>
+      <webElementGuid>4f58d7eb-0b98-46f1-925f-1362d80c7969</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-warning btn-xs</value>
-      <webElementGuid>cc5931c6-5a1c-4495-972c-20fb081dbf32</webElementGuid>
+      <webElementGuid>55168e4d-f0fe-4c0a-9b85-d6ac4ebd82e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Send Message</value>
-      <webElementGuid>9da56e78-d752-4a8f-9a0b-a6e3fd14e558</webElementGuid>
+      <webElementGuid>18ac3671-562d-4d1f-a717-1df9efa914eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;example1&quot;)/tbody[1]/tr[@class=&quot;bg-g odd&quot;]/td[2]/a[@class=&quot;btn btn-warning btn-xs&quot;]</value>
-      <webElementGuid>087bac6c-3c60-46d1-aa8d-2382ff0552a0</webElementGuid>
+      <webElementGuid>c4daac73-5e55-4494-a0b0-bc0ae7f64cd8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='example1']/tbody/tr/td[2]/a</value>
-      <webElementGuid>9ba0c326-8368-4fb8-8350-ad8d7c00fbf2</webElementGuid>
+      <webElementGuid>0b6af354-e61c-42b6-9d9e-40b9c2de86a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Send Message')]</value>
-      <webElementGuid>a3b04803-05d7-48b7-8bcd-37e3a69a61b7</webElementGuid>
+      <webElementGuid>3eb1237f-3eed-4605-aed7-d4a652b76681</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::a[1]</value>
-      <webElementGuid>0416d0d7-7a18-4f85-9393-15ba43d6eb22</webElementGuid>
+      <webElementGuid>077c6d00-96bf-4355-a5cb-5f0cc9638a9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name:'])[1]/following::a[1]</value>
-      <webElementGuid>b2c2a229-84af-44c5-af03-c8702b859051</webElementGuid>
+      <webElementGuid>aac5a429-9ba4-480e-a4f1-97a1f9b2e8b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[1]</value>
-      <webElementGuid>b1787dc0-cf52-4085-85a5-c71aeae41c97</webElementGuid>
+      <webElementGuid>9dbccc73-4087-45d8-b851-fb6b7658ab82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Message'])[2]/preceding::a[1]</value>
-      <webElementGuid>8494ee0c-868e-49ae-a73f-20eb6e45681c</webElementGuid>
+      <webElementGuid>5ce22526-3777-4a1d-a596-139477376f26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Send Message']/parent::*</value>
-      <webElementGuid>f5037739-d125-415f-8291-5ccc3dda34bc</webElementGuid>
+      <webElementGuid>32a6941e-c28b-4e63-9e2b-80e56a82527a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[4]</value>
-      <webElementGuid>d1f5c40b-5d26-4405-8701-8c7fcd357fcc</webElementGuid>
+      <webElementGuid>483730f9-3b96-4d60-bc70-ef38eaef1d32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/a</value>
-      <webElementGuid>e538f596-4937-4130-980d-59be596c08df</webElementGuid>
+      <webElementGuid>1a2feac5-e6ac-4760-98a9-794667956c5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Send Message' or . = 'Send Message')]</value>
-      <webElementGuid>be1209e8-2e66-4aee-9281-dd2e41c4381f</webElementGuid>
+      <webElementGuid>94c67781-99a1-45c6-bb8d-4e7180ba2661</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

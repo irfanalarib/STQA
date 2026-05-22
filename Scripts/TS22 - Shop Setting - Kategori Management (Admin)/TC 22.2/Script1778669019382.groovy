@@ -29,13 +29,18 @@ WebUI.setEncryptedText(findTestObject('Object Repository/TS22 - Shop Setting - K
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Login/input_Admin Panel_form1'))
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Admin Panel/a_Shop Settings'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Admin Panel/span_Shop Settings'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Admin Panel/a_Size'))
 
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Admin Panel/h1_View Sizes'))
+
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Admin Panel/a_Add New'))
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Admin Panel/input__size_name'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Admin Panel/h1_Add Size'))
+
+WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Admin Panel/input__size_name'), 
+    '')
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.2/Page_Admin Panel/button_Submit'))
 

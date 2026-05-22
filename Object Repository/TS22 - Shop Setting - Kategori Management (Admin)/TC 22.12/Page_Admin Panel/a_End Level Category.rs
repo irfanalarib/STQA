@@ -3,7 +3,7 @@
    <description></description>
    <name>a_End Level Category</name>
    <tag></tag>
-   <elementGuidId>a8549663-1d12-4226-91fd-7217633a635d</elementGuidId>
+   <elementGuidId>a6187294-ddbe-4cc5-bce7-afc4852592d3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e663c935-a159-47dc-8f2f-5e46da72b1f8</webElementGuid>
+      <webElementGuid>72b3a479-0442-4dc0-995e-20a20dc03974</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>end-category.php</value>
-      <webElementGuid>92ea5e13-1e31-48cb-9435-6f74d2bf6fc1</webElementGuid>
+      <webElementGuid>65a0c942-ed8a-47b6-a1fe-d7140c944adf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> End Level Category</value>
-      <webElementGuid>36dfacb2-3a5d-413d-a0ac-7d5d080234ad</webElementGuid>
+      <webElementGuid>16f0f796-b643-447f-bfb5-9d0c2eb5268d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview  active&quot;]/ul[@class=&quot;treeview-menu menu-open&quot;]/li[7]/a[1]</value>
-      <webElementGuid>27196f9b-d439-4302-ae34-1a432caac082</webElementGuid>
+      <webElementGuid>77a0dff8-6b07-408f-85c1-3948233d7ef3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'End Level Category')]</value>
-      <webElementGuid>89a11332-c72a-451a-ae8e-997fa3604dae</webElementGuid>
+      <webElementGuid>4dd4d29e-e8d3-4d22-b726-2d5ff7946d97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mid Level Category'])[1]/following::a[1]</value>
-      <webElementGuid>e7d19ab5-0a2a-46e3-8952-fa2a0b46a420</webElementGuid>
+      <webElementGuid>9e8454b3-0da8-437c-8339-9be6b687f799</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Level Category'])[1]/following::a[2]</value>
-      <webElementGuid>5bf63987-f98c-4a46-b047-e4600b75e82d</webElementGuid>
+      <webElementGuid>daf68747-203b-4d69-92a7-73be362f6e2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View / Add Products'])[1]/preceding::a[1]</value>
-      <webElementGuid>fc62cd11-9565-4ec6-9518-3b3d7dcf3709</webElementGuid>
+      <webElementGuid>d623cb80-f362-4294-b091-4ca2d6297e59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders Management'])[1]/preceding::a[2]</value>
-      <webElementGuid>240913c0-4cea-4b70-9157-9b73b55d45bd</webElementGuid>
+      <webElementGuid>52760a32-256d-4056-b1be-25c99d94320e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='End Level Category']/parent::*</value>
-      <webElementGuid>11ea2958-2b07-4949-8a1f-1a727dca0046</webElementGuid>
+      <webElementGuid>4ab441c2-41a0-4d8d-9897-a34b0c4ca5d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'end-category.php')]</value>
-      <webElementGuid>b64597df-332e-4a4d-a154-2c99e0a622b6</webElementGuid>
+      <webElementGuid>535e154f-7feb-4a22-b7dc-b73322f2de2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/a</value>
-      <webElementGuid>bc2e27a2-2fd6-4cd8-b1be-3de820d08f06</webElementGuid>
+      <webElementGuid>c213e0c5-17a6-4e3c-a538-a4c193710278</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'end-category.php' and (text() = ' End Level Category' or . = ' End Level Category')]</value>
-      <webElementGuid>4a6a947c-62f1-4c00-a1c6-b8e1968eb7a7</webElementGuid>
+      <webElementGuid>85104cbd-a196-4915-bec3-31a2f0eae1dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

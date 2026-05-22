@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>f82ac632-d480-4a8d-a928-be9ff5bc6d61</webElementGuid>
+      <webElementGuid>d0f01c11-3b78-4b5f-a66f-cbdf2866dbe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 			You must have to select a top level categoryYou must have to select a mid level categoryYou must have to select an end level categoryProduct name can not be emptyCurrent Price can not be emptyQuantity can not be emptyYou must have to select a featured photo			</value>
-      <webElementGuid>95de037d-6739-4bb6-afd8-650266fef821</webElementGuid>
+      <webElementGuid>9989e57d-aede-4cc3-9ff6-80c46d513f4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-danger&quot;]/p[1]</value>
-      <webElementGuid>39553e0c-882e-475f-a8dc-9e8d30d320d5</webElementGuid>
+      <webElementGuid>bdacdd5a-2fb9-4f89-92d2-dcbd2c10d6df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>26a7df71-0737-46a7-bdf1-3073347f7f9d</webElementGuid>
+      <webElementGuid>c62ad417-8620-42f2-a3bf-cc50e3d0db98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Product'])[1]/following::p[1]</value>
-      <webElementGuid>99ede267-43cc-4b83-95e2-67044e7c778c</webElementGuid>
+      <webElementGuid>5370a645-3394-411b-a1d6-6a9d5f31fec7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>137b0953-c610-4f5d-94f7-5765aab7ec8a</webElementGuid>
+      <webElementGuid>83a06138-00d8-4c34-9422-7d619e013732</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='You must have to select a top level category']/parent::*</value>
-      <webElementGuid>4e5135c5-8032-485f-81b3-73abdf2065fc</webElementGuid>
+      <webElementGuid>6e12b6fd-57a0-4412-972b-aecd3d029028</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>2b320697-ae12-471f-b55d-3e0bc49ab77d</webElementGuid>
+      <webElementGuid>2eb8e3c6-b70a-4c39-836f-c3a222ff60fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
       <value>//p[(text() = '
 			You must have to select a top level categoryYou must have to select a mid level categoryYou must have to select an end level categoryProduct name can not be emptyCurrent Price can not be emptyQuantity can not be emptyYou must have to select a featured photo			' or . = '
 			You must have to select a top level categoryYou must have to select a mid level categoryYou must have to select an end level categoryProduct name can not be emptyCurrent Price can not be emptyQuantity can not be emptyYou must have to select a featured photo			')]</value>
-      <webElementGuid>b04b0104-8eb5-4917-a407-2177cb528995</webElementGuid>
+      <webElementGuid>07fff0b4-0315-4c16-80d1-e85cb4528c06</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

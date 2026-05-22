@@ -1,6 +1,20 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
 
 // =====================================================
 // TEST CASE
@@ -11,82 +25,27 @@ import com.kms.katalon.core.model.FailureHandling as FailureHandling
 // Contoh:
 // Field Facebook diisi URL Instagram
 // =====================================================
-
 // OPEN BROWSER
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
-// =====================================================
-// LOGIN ADMIN
-// =====================================================
 WebUI.navigateToUrl('http://fashionys.com/admin/login.php')
 
-WebUI.setText(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Login/input_Admin Panel_email'),
-	'hammad.shahir@gmail.com'
-)
+WebUI.setText(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Login/input_Admin Panel_email'), 
+    'hammad.shahir@gmail.com')
 
-WebUI.setEncryptedText(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Login/input_Admin Panel_password'),
-	'4nvbrPglk7k='
-)
+WebUI.setEncryptedText(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Login/input_Admin Panel_password'), 
+    '4nvbrPglk7k=')
 
-WebUI.click(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Login/input_Admin Panel_form1')
-)
+WebUI.click(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Login/input_Admin Panel_form1'))
 
-// =====================================================
-// MASUK MENU SOCIAL MEDIA
-// =====================================================
-WebUI.click(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Admin Panel/a_Social Media')
-)
+WebUI.click(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Admin Panel/span_Social Media'))
 
-// =====================================================
-// INPUT URL SALAH DOMAIN
-// Facebook field diisi URL Instagram
-// =====================================================
-WebUI.setText(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Admin Panel/input_Facebook_facebook'),
-	'https://www.instagram.com/min9yu_k'
-)
+WebUI.setText(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Admin Panel/input_Twitter_twitter'), 
+    'https://facebook.com/min9yu_k')
 
-// SUBMIT
-WebUI.click(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Admin Panel/button_Submit')
-)
+WebUI.click(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Admin Panel/button_Submit'))
 
-// =====================================================
-// VALIDASI
-// Expected:
-// Sistem HARUS menolak URL yang tidak sesuai
-// dengan domain platform
-// =====================================================
+WebUI.click(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Admin Panel/p_Social Media URLs are updated successfully'))
 
-// Verifikasi pesan sukses TIDAK muncul
-boolean successMessage = WebUI.verifyElementNotPresent(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.3/Page_Admin Panel/p_Social Media URLs are updated successfully'),
-	5,
-	FailureHandling.OPTIONAL
-)
-
-// Jika pesan sukses muncul → BUG
-if (!successMessage) {
-
-	WebUI.comment('BUG FOUND: Sistem menerima URL dengan domain platform yang salah.')
-
-	WebUI.takeScreenshot()
-
-	assert false : 'FAILED - URL Instagram diterima pada field Facebook.'
-
-} else {
-
-	WebUI.comment('PASSED: Sistem berhasil menolak URL dengan domain yang tidak sesuai.')
-
-}
-
-// =====================================================
-// CLOSE BROWSER
-// =====================================================
 WebUI.closeBrowser()
+

@@ -3,7 +3,7 @@
    <description></description>
    <name>h1_View Countries</name>
    <tag></tag>
-   <elementGuidId>0dcc854f-11ba-4ea2-86e9-d2bb3af5a957</elementGuidId>
+   <elementGuidId>e0978703-55cf-4139-9a70-5c689ffd5080</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>10a78e78-b9bc-48f6-bb4f-6b0a7f5e163f</webElementGuid>
+      <webElementGuid>f5e48ecf-539c-4088-ad8b-fb64f5c7847e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>View Countries</value>
-      <webElementGuid>c3f07506-dff4-42e0-b919-cd858a8066a8</webElementGuid>
+      <webElementGuid>a44a6d05-29e2-4be4-b3b5-261ebaccc0b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;content-header-left&quot;]/h1[1]</value>
-      <webElementGuid>fcfb9c45-7de6-46c3-8776-7b0febff5ea5</webElementGuid>
+      <webElementGuid>4863b90c-6b47-4314-91f0-36d0d9277e19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/following::h1[1]</value>
-      <webElementGuid>ae55c8eb-ef4b-4ae8-a3a1-9756d82bf7ec</webElementGuid>
+      <webElementGuid>b10d2983-42c8-4eb0-a4a1-f63b95d9ffac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media'])[1]/following::h1[1]</value>
-      <webElementGuid>79c96c3f-1770-4b82-9074-af9a7d7a0169</webElementGuid>
+      <webElementGuid>4d6cdf03-ee1d-422a-8292-a6371de22e2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/preceding::h1[1]</value>
-      <webElementGuid>1782abe9-d33e-4ee1-87bc-92df4b34685e</webElementGuid>
+      <webElementGuid>a96b6748-c224-4364-bab4-93de36bc8987</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='View Countries']/parent::*</value>
-      <webElementGuid>544bff06-9d50-41b8-afaa-b72910401c06</webElementGuid>
+      <webElementGuid>0fdaca65-685f-4cd5-9ee2-edee98de5e10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>a2ea4c82-bf8c-4a5a-a8d5-ad66c20b3517</webElementGuid>
+      <webElementGuid>95f6310c-4b6e-43b5-bfd3-c3bb460528a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'View Countries' or . = 'View Countries')]</value>
-      <webElementGuid>34b7f39c-2d5d-4194-b1f5-455bf9c749da</webElementGuid>
+      <webElementGuid>fdf1a77c-5ac4-4ff5-9cd1-201a646217c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

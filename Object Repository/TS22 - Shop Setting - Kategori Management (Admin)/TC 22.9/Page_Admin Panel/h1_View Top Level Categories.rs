@@ -3,15 +3,15 @@
    <description></description>
    <name>h1_View Top Level Categories</name>
    <tag></tag>
-   <elementGuidId>b82f62cb-e376-4c83-846c-8481dfc13ecc</elementGuidId>
+   <elementGuidId>fb98ec35-39f5-4ea8-89f9-27897f666f22</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>h1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>aa0364ae-6546-4bfd-a5b0-87f777fd670c</webElementGuid>
+      <webElementGuid>a9e3578a-59ad-45d4-90c9-e799e97b7be5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>View Top Level Categories</value>
-      <webElementGuid>74e60bfb-255d-4665-839b-0b706b142ed3</webElementGuid>
+      <webElementGuid>c31d8b69-5058-48ed-91a9-d61fa10f2fe4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;content-header-left&quot;]/h1[1]</value>
-      <webElementGuid>4c35f5f0-b95e-4b78-ac49-f6cb18b24de1</webElementGuid>
+      <webElementGuid>ba2008be-cff8-463f-819b-1fabde95071c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/following::h1[1]</value>
-      <webElementGuid>2ff3e8df-4efe-4be3-8127-b470994f6fd6</webElementGuid>
+      <webElementGuid>86eebc83-abc7-423c-9169-a60a99f36eef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media'])[1]/following::h1[1]</value>
-      <webElementGuid>4f7fdc6b-0164-4c73-8334-36de34cecb96</webElementGuid>
+      <webElementGuid>2a2b2dd9-2077-4fde-a512-8b595b23bcef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/preceding::h1[1]</value>
-      <webElementGuid>73b08d0f-2d44-4864-bd3d-8a9cbe90b8b0</webElementGuid>
+      <webElementGuid>e61be86e-d348-45cd-bf47-0a8ada93ae95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='View Top Level Categories']/parent::*</value>
-      <webElementGuid>6b42b2bc-3d81-49f7-85d0-fbccbba9d0d4</webElementGuid>
+      <webElementGuid>ed369c64-d45c-4b13-8c43-b9f0de59bd71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>bd36cd4b-a8d3-4c0d-83eb-e434c9aabb6a</webElementGuid>
+      <webElementGuid>904c7789-ed7e-42ed-9c53-89d7914153c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'View Top Level Categories' or . = 'View Top Level Categories')]</value>
-      <webElementGuid>44a53fcc-35a6-4e92-b421-aced7c783a79</webElementGuid>
+      <webElementGuid>61c242c7-38c1-4210-8b7e-8ace05c15b3a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

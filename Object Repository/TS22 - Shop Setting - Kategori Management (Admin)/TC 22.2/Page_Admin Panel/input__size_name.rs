@@ -3,15 +3,15 @@
    <description></description>
    <name>input__size_name</name>
    <tag></tag>
-   <elementGuidId>6e546689-48aa-4116-bb0d-1b25c16aba5b</elementGuidId>
+   <elementGuidId>9a37b8ef-7f8a-4766-86d3-fe3b9091c9f9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='size_name']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;size_name&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='size_name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a216d79e-65b6-471c-acc5-bffeb2387e56</webElementGuid>
+      <webElementGuid>b2de8008-d55f-4be4-a12b-9173d367272b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>107631b5-4841-465c-a710-3ce6a0a4aba4</webElementGuid>
+      <webElementGuid>9204c567-7bda-4794-95b0-5c69ccda2068</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>65ceb2d0-70b5-4435-b0e5-5ac998e4fc31</webElementGuid>
+      <webElementGuid>a8fe052c-8ec3-471f-ad05-21b11a03a995</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>size_name</value>
-      <webElementGuid>ff7e3076-b341-4469-a6ee-61da3651494b</webElementGuid>
+      <webElementGuid>d90aee16-4185-4de3-9605-62210c869f54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>fe35bcfa-9537-4163-8f86-d7544d21caf4</webElementGuid>
+      <webElementGuid>76b97199-caee-4a31-a02c-df1131ccf551</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='size_name']</value>
-      <webElementGuid>06abab21-f62c-42a1-a280-45fae3255770</webElementGuid>
+      <webElementGuid>9028dde3-cc59-4387-aed9-f80ed5414620</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>e1135113-e6fd-4a16-9ac7-d9a743924b28</webElementGuid>
+      <webElementGuid>4a6ed43b-5334-4058-a286-ada328387da4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'size_name']</value>
-      <webElementGuid>658ec8dd-3101-4a31-a234-2316da4db82e</webElementGuid>
+      <webElementGuid>e0579c9f-620e-4db8-ba3d-ac8f55e1b94f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

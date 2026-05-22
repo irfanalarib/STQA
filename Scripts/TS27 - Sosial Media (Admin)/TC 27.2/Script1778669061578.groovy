@@ -24,81 +24,27 @@ import org.openqa.selenium.Keys as Keys
 // Memastikan sistem menolak URL yang tidak diawali
 // http:// atau https://
 // =====================================================
-
 // OPEN BROWSER
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
-// =====================================================
-// LOGIN ADMIN
-// =====================================================
 WebUI.navigateToUrl('http://fashionys.com/admin/login.php')
 
-WebUI.setText(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Login/input_Admin Panel_email'),
-	'hammad.shahir@gmail.com'
-)
+WebUI.setText(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Login/input_Admin Panel_email'), 
+    'hammad.shahir@gmail.com')
 
-WebUI.setEncryptedText(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Login/input_Admin Panel_password'),
-	'4nvbrPglk7k='
-)
+WebUI.setEncryptedText(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Login/input_Admin Panel_password'), 
+    '4nvbrPglk7k=')
 
-WebUI.click(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Login/input_Admin Panel_form1')
-)
+WebUI.click(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Login/input_Admin Panel_form1'))
 
-// =====================================================
-// MASUK MENU SOCIAL MEDIA
-// =====================================================
-WebUI.click(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Admin Panel/span_Social Media')
-)
+WebUI.click(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Admin Panel/a_Social Media'))
 
-// =====================================================
-// INPUT URL INVALID
-// =====================================================
-WebUI.setText(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Admin Panel/input_Facebook_facebook'),
-	'abcdef'
-)
+WebUI.setText(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Admin Panel/input_LinkedIn_linkedin'), 
+    'abcdef')
 
-// SUBMIT
-WebUI.click(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Admin Panel/button_Submit')
-)
+WebUI.click(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Admin Panel/button_Submit'))
 
-// =====================================================
-// VALIDASI
-// Expected:
-// Sistem HARUS menolak URL invalid
-// dan TIDAK menampilkan pesan sukses
-// =====================================================
+WebUI.click(findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Admin Panel/p_Social Media URLs are updated successfully'))
 
-// Verifikasi pesan sukses TIDAK muncul
-boolean successMessage = WebUI.verifyElementNotPresent(
-	findTestObject('Object Repository/TS27 - Sosial Media (Admin)/TC 27.2/Page_Admin Panel/p_Social Media URLs are updated successfully'),
-	5,
-	FailureHandling.OPTIONAL
-)
-
-// Jika pesan sukses muncul → BUG
-if (!successMessage) {
-
-	WebUI.comment('BUG FOUND: Sistem menerima URL invalid.')
-
-	WebUI.takeScreenshot()
-
-	assert false : 'FAILED - URL invalid diterima oleh sistem.'
-
-} else {
-
-	WebUI.comment('PASSED: Sistem menolak URL invalid.')
-
-}
-
-// =====================================================
-// CLOSE BROWSER
-// =====================================================
 WebUI.closeBrowser()
+

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>0e9a62ec-cd8d-40c8-86a7-5b36e2227f19</webElementGuid>
+      <webElementGuid>592f0c3b-afd1-4a68-bd52-9d3e2ff8a220</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>View Orders</value>
-      <webElementGuid>913c4395-1386-4b63-8edb-29f790444031</webElementGuid>
+      <webElementGuid>58ce8b01-016d-4c9a-9ee1-0f0131706481</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;content-header-left&quot;]/h1[1]</value>
-      <webElementGuid>1e34cf3e-a02e-4ddf-8642-a8b8153cde20</webElementGuid>
+      <webElementGuid>9ec119ea-76c4-4eee-b9c3-4c222f889010</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/following::h1[1]</value>
-      <webElementGuid>8a0c4368-6566-40b3-a26d-91a666fd6611</webElementGuid>
+      <webElementGuid>0d8d0cf5-5f0d-42e8-9600-b0a7a22ff44b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media'])[1]/following::h1[1]</value>
-      <webElementGuid>8bd5887d-c986-48aa-b324-498863845ea1</webElementGuid>
+      <webElementGuid>fecd2930-cfed-4ba4-b622-d50f4bab5466</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[1]/preceding::h1[1]</value>
-      <webElementGuid>ed39ee89-1bed-4d20-b325-67a66484deeb</webElementGuid>
+      <webElementGuid>143aa076-a64b-427f-a237-afb6cb943135</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='View Orders']/parent::*</value>
-      <webElementGuid>bfba60db-69ee-4e81-bf94-738cd21b9682</webElementGuid>
+      <webElementGuid>0d189bf4-82fb-4d6a-9e39-aede4bcf3f47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>47459dff-9e7f-4bcc-b042-85b3ea63b85d</webElementGuid>
+      <webElementGuid>0ac4c36a-38fc-4bf8-a000-f56ad3c79d4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'View Orders' or . = 'View Orders')]</value>
-      <webElementGuid>7c16ff67-d749-44e4-8c50-0595b728d6df</webElementGuid>
+      <webElementGuid>6992a074-6ab1-4d42-abb3-ed0f4005998b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

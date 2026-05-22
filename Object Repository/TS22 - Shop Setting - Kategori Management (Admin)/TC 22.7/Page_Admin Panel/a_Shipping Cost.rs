@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Shipping Cost</name>
    <tag></tag>
-   <elementGuidId>4877cd67-8962-4121-a983-e506ecc457bf</elementGuidId>
+   <elementGuidId>37f6f175-365d-4368-92ec-a5562a56262a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a33e8ab8-fbc3-477d-93c3-fa042ce74eaa</webElementGuid>
+      <webElementGuid>e77ce457-dfdb-4b63-ae3d-7fa8efcc82b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>shipping-cost.php</value>
-      <webElementGuid>91532de5-612a-4bb2-97d8-791219951fd3</webElementGuid>
+      <webElementGuid>a67119a3-b3a7-41de-acbf-85491f6ad93c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Shipping Cost</value>
-      <webElementGuid>d237383a-4cd6-40bc-8f20-9b001450b653</webElementGuid>
+      <webElementGuid>b721fee3-1689-4de4-b84f-2fa3650b95a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview  active&quot;]/ul[@class=&quot;treeview-menu menu-open&quot;]/li[4]/a[1]</value>
-      <webElementGuid>17e8c9f3-7d98-4d7a-b3b7-8c6e64b0f71e</webElementGuid>
+      <webElementGuid>3581acc1-0eae-42b2-854a-26fa06c3c83d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Shipping Cost')]</value>
-      <webElementGuid>0da073ab-3dff-4954-9b7b-085f5aa96e48</webElementGuid>
+      <webElementGuid>a9a92ff9-3a46-4bc7-ba10-dbd7fa19231a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::a[1]</value>
-      <webElementGuid>fd0e5e15-f0f2-47fa-a8d2-e1f730bf3379</webElementGuid>
+      <webElementGuid>56582dcb-f1e6-489f-8dcb-8e9657664476</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/following::a[2]</value>
-      <webElementGuid>961790c7-9bd9-49cd-ad9e-8a0b3418ccbc</webElementGuid>
+      <webElementGuid>99ff4fec-8244-4478-98d1-98c4e07bc43f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Level Category'])[1]/preceding::a[1]</value>
-      <webElementGuid>0a9355ec-462b-4dd4-a642-ebfdb9b284a0</webElementGuid>
+      <webElementGuid>9e583212-46eb-4da0-b133-13f6879486c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mid Level Category'])[1]/preceding::a[2]</value>
-      <webElementGuid>1daaa0b9-14ec-4688-baf9-30c20d6df6d0</webElementGuid>
+      <webElementGuid>ccb1a734-eedc-406d-94ba-bfa5e2a9ef93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Shipping Cost']/parent::*</value>
-      <webElementGuid>be8c3009-bd5e-43ac-9e90-26c64ad62aff</webElementGuid>
+      <webElementGuid>e0dc53e2-b3c9-4f2c-8239-eee8ba480059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'shipping-cost.php')]</value>
-      <webElementGuid>9a3b41c1-dcbc-4ab4-8050-eec82923d418</webElementGuid>
+      <webElementGuid>b8e234ab-693b-4483-aefd-85cdb736c0cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>f1152538-f757-411d-aed0-8f744779c6cf</webElementGuid>
+      <webElementGuid>ba6bcec0-3727-4b7c-9a7f-bca921a15fcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'shipping-cost.php' and (text() = ' Shipping Cost' or . = ' Shipping Cost')]</value>
-      <webElementGuid>bf26fab4-0626-4cf2-a7a3-180f47061e80</webElementGuid>
+      <webElementGuid>dcd13c83-9eda-45ec-8487-a94020ff7563</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

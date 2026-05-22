@@ -3,7 +3,7 @@
    <description></description>
    <name>h1_View Colors</name>
    <tag></tag>
-   <elementGuidId>1d610646-0c9a-4eb7-af6c-ed7f30d6441e</elementGuidId>
+   <elementGuidId>c78b938f-6875-474d-9cd0-7dbfbf0e2765</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>a1724756-b95b-4ec9-9528-afb459b4188e</webElementGuid>
+      <webElementGuid>01cb3be1-8b89-4688-804b-fbe6802d89ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>View Colors</value>
-      <webElementGuid>6908a920-958f-4afa-9bea-60ae8866114b</webElementGuid>
+      <webElementGuid>9a5544dc-001a-4368-b78d-6409c370b3df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;content-header-left&quot;]/h1[1]</value>
-      <webElementGuid>3a602cb2-e78e-4250-8b6b-ae0e186f99dd</webElementGuid>
+      <webElementGuid>03a350e2-645e-49b0-945d-ca2546a1a11f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/following::h1[1]</value>
-      <webElementGuid>d4771f59-fc22-4d90-ae11-cf92f8cf64fc</webElementGuid>
+      <webElementGuid>22cb2620-f2ec-4c13-98a6-423b1ab6cd20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media'])[1]/following::h1[1]</value>
-      <webElementGuid>7508809d-1aca-453f-985b-73708672c2f8</webElementGuid>
+      <webElementGuid>ce799359-2491-47c2-8260-eb75ef6f39b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/preceding::h1[1]</value>
-      <webElementGuid>b8553de4-9aa7-4a0f-afb9-3a8205154e84</webElementGuid>
+      <webElementGuid>e6a5ecc9-c233-4740-828b-19a02c5cf1ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='View Colors']/parent::*</value>
-      <webElementGuid>8debacb6-be11-437c-9f4b-a2a0453808ee</webElementGuid>
+      <webElementGuid>51948768-57ec-4c33-bcb2-914b26b9243d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>5b0e07b6-c2ec-4ade-8339-ffd8f9608caa</webElementGuid>
+      <webElementGuid>c77d939f-51e5-4adf-b8cb-d206f0b4c2e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'View Colors' or . = 'View Colors')]</value>
-      <webElementGuid>9da442c1-9815-4a9e-9a50-0f5183f6ad6f</webElementGuid>
+      <webElementGuid>0c68f696-5280-4494-8341-8b302220acd3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

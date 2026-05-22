@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Shop Settings</name>
    <tag></tag>
-   <elementGuidId>11f18718-75cd-4a12-97c8-5c9d30a179e5</elementGuidId>
+   <elementGuidId>28954d25-9a1f-4890-94a7-8523e6bf2696</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>296b3a29-6e69-4fa7-b09c-65e161b80d41</webElementGuid>
+      <webElementGuid>6a2bb307-ec25-4cf6-a961-a3b07926b894</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Shop Settings</value>
-      <webElementGuid>ff512da9-44ac-4fe9-b12c-35094b87f7a4</webElementGuid>
+      <webElementGuid>9957e45c-b398-48e0-adba-18f386ffcab4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/div[@class=&quot;slimScrollDiv&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeview&quot;]/a[1]/span[1]</value>
-      <webElementGuid>70c7bc6c-5f50-48af-9a4b-24f7565d1be0</webElementGuid>
+      <webElementGuid>cc4b4642-756f-49ee-a6dd-686b7de6215c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Website Settings'])[1]/following::span[1]</value>
-      <webElementGuid>a24bb5f0-8454-4b26-a10f-e4c3611ca2bf</webElementGuid>
+      <webElementGuid>46d6097b-6df8-4636-8b93-a7dfd349ef65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[2]</value>
-      <webElementGuid>4f01fed5-efa3-4015-a74e-d30365705738</webElementGuid>
+      <webElementGuid>8c02732f-53e3-4ce9-b0d7-ab63841acc94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/preceding::span[2]</value>
-      <webElementGuid>e897c67b-7ed1-4a75-932c-2f4666a6cf50</webElementGuid>
+      <webElementGuid>26b558ea-4659-4a19-8cf0-410ba407da66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/preceding::span[2]</value>
-      <webElementGuid>f4a24d65-ad92-4f0b-9f2b-3b565a8ff702</webElementGuid>
+      <webElementGuid>33985a5c-1214-4d13-aa87-9778c9b5d2fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Shop Settings']/parent::*</value>
-      <webElementGuid>2438ec8d-64f7-4a09-a5e9-59d5169749d6</webElementGuid>
+      <webElementGuid>e96e62db-46a3-4fdb-add1-fb1dcb995312</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/span</value>
-      <webElementGuid>35d8a550-1c28-4655-8d03-bec494e7dd6e</webElementGuid>
+      <webElementGuid>f2dac1a5-fad3-4b0f-a1a8-8e4decae2dda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Shop Settings' or . = 'Shop Settings')]</value>
-      <webElementGuid>dec1882a-207a-4413-af48-b74fcfed88be</webElementGuid>
+      <webElementGuid>e20bcb02-5921-4c81-ae96-5811417cfb80</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

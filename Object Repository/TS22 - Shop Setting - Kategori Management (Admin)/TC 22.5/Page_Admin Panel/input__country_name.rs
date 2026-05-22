@@ -3,7 +3,7 @@
    <description></description>
    <name>input__country_name</name>
    <tag></tag>
-   <elementGuidId>3f486da7-b764-4ccc-b7bb-cc3f46f33ab1</elementGuidId>
+   <elementGuidId>f995564a-5acb-4c6a-aee6-c60595ed6f5d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4657776e-8138-40ac-aeb7-e79e2c86f154</webElementGuid>
+      <webElementGuid>53453366-afc2-4de7-97df-5bcb61e031f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c6d5991d-9a2b-4e38-ae6f-ef4e461af566</webElementGuid>
+      <webElementGuid>3324e23e-85f6-49a8-a90e-062b1a5fe493</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>0ee87099-b434-43a7-8c59-53081e0e5663</webElementGuid>
+      <webElementGuid>765a5d5f-3dd3-4070-afb7-689f1f9c0bb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>country_name</value>
-      <webElementGuid>8a11d9ba-0c79-4ec1-b3e8-589879499194</webElementGuid>
+      <webElementGuid>1ee3a798-1d71-4c26-aa11-2d05d33feb94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>b8d247a7-3b69-49b0-8ec2-fc8fbab53f00</webElementGuid>
+      <webElementGuid>e0c083b8-69e7-4a73-a7c2-45c45f98cc8f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='country_name']</value>
-      <webElementGuid>9fb5ca35-b82c-4ba7-847c-f015e4aab940</webElementGuid>
+      <webElementGuid>71702c2b-4c70-4e3c-b95d-d47ffd167c3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>0a5ddfb6-f12e-4fb7-a5b8-596d11ba36ac</webElementGuid>
+      <webElementGuid>73f7be97-d906-4419-9873-a1739d78f8f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'country_name']</value>
-      <webElementGuid>af780c85-b7e8-4f96-8da1-963d8861e07b</webElementGuid>
+      <webElementGuid>216856bb-bf16-4269-b747-ad4b4a97c0d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

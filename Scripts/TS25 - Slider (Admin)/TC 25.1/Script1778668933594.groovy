@@ -17,34 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://fashionys.com/admin/login.php')
-
-WebUI.setText(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Login/input_Admin Panel_email'), 'hammad.shahir@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Login/input_Admin Panel_password'), 
-    '4nvbrPglk7k=')
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Login/input_Admin Panel_form1'))
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Admin Panel/a_Slider'))
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Admin Panel/h1_View Sliders'))
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Admin Panel/th_Photo'))
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Admin Panel/th_Heading'))
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Admin Panel/th_Content'))
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Admin Panel/th_Button Text'))
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Admin Panel/th_Button URL'))
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Admin Panel/th_Position'))
-
-WebUI.click(findTestObject('Object Repository/TS25 - Slider (Admin)/TC 25.1/Page_Admin Panel/th_Action'))
-
-WebUI.closeBrowser()
-

@@ -3,15 +3,15 @@
    <description></description>
    <name>p_Top Category Name can not be empty</name>
    <tag></tag>
-   <elementGuidId>77f9d7f1-cd14-4a7b-ad71-974ad0f4a0cd</elementGuidId>
+   <elementGuidId>4375d385-e5cc-4a78-8354-417c99f4cb0a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>p</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>94e05b7e-d56d-401b-905a-bba3235c71ec</webElementGuid>
+      <webElementGuid>2347505c-2157-44bf-82d5-a48abc5d82aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 			Top Category Name can not be empty			</value>
-      <webElementGuid>1195f6dc-91cf-46cc-b50d-34b31b2b089d</webElementGuid>
+      <webElementGuid>d5b55d82-3853-4254-8dd1-de14e80bdbb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-danger&quot;]/p[1]</value>
-      <webElementGuid>83fffa93-842f-4249-8c21-2548b96a36d8</webElementGuid>
+      <webElementGuid>87319d0e-cecb-4fc4-b447-1197a4161b65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>cea17929-f42b-44b8-a0ae-d43ff0fa2e35</webElementGuid>
+      <webElementGuid>7ae726e2-79b1-45e5-8cb2-524e5aa47f57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Top Level Category'])[1]/following::p[1]</value>
-      <webElementGuid>a39230da-a27c-4abf-965f-63316bc5b16e</webElementGuid>
+      <webElementGuid>6ba6fb4d-f5d3-4f94-8e62-9578eb9efb08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>bffe7bf4-2ef4-47cd-823b-f482e65c842e</webElementGuid>
+      <webElementGuid>88df7b0a-b38d-4bba-bd84-f6f30ed1e522</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Top Category Name can not be empty']/parent::*</value>
-      <webElementGuid>dbd0b536-ae22-4ecf-9e60-c914cba756f3</webElementGuid>
+      <webElementGuid>17291a80-0b5c-42f0-a0b5-25b50f36b3b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>6c2b960d-24dd-4211-86d1-47dcc1ee9016</webElementGuid>
+      <webElementGuid>32296ce3-a61c-4658-8812-d6a87fea0c5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
       <value>//p[(text() = '
 			Top Category Name can not be empty			' or . = '
 			Top Category Name can not be empty			')]</value>
-      <webElementGuid>e75d51da-eee8-4d11-996c-f0228d4fd1dc</webElementGuid>
+      <webElementGuid>50840d66-3d93-4163-837b-faa49cc57536</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

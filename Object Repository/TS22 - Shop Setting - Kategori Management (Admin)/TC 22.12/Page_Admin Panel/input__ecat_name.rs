@@ -3,7 +3,7 @@
    <description></description>
    <name>input__ecat_name</name>
    <tag></tag>
-   <elementGuidId>63221d8e-6702-468b-ba87-40d375537832</elementGuidId>
+   <elementGuidId>21772336-4cd2-4421-8cd3-96873da8c0f7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>eea8ea5b-3d5d-4039-8b26-2d9b18b82c5f</webElementGuid>
+      <webElementGuid>8438885d-ccc4-4d13-94ca-d2d061e79935</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>62783d30-124a-45e0-bd95-d78fafa2a814</webElementGuid>
+      <webElementGuid>b173a375-a372-41af-84bb-c0cefd49854d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>e8a15b4e-bb5c-4721-9dba-8fd305ce28af</webElementGuid>
+      <webElementGuid>1351da4f-e09f-4979-a7b4-7015b95e55b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ecat_name</value>
-      <webElementGuid>4b52c9d4-5e18-4fe0-bba4-04eb6f30be30</webElementGuid>
+      <webElementGuid>12ea3c0e-438a-4813-aad8-6611b9416d05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>3eaa5aff-8f49-4ef5-97dc-436312074566</webElementGuid>
+      <webElementGuid>1f173b08-658b-4c72-bdbf-9afe23677db9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='ecat_name']</value>
-      <webElementGuid>43556491-38d0-4ec4-af95-b1206e6f8539</webElementGuid>
+      <webElementGuid>2f48104c-ab85-4130-97c3-dfa7c3e05447</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>d9409f27-4b72-4a91-8c66-c51847137c7c</webElementGuid>
+      <webElementGuid>05143baf-a5dd-4561-976c-3ef7a1bb5b14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'ecat_name']</value>
-      <webElementGuid>09f07f21-3beb-4d50-b647-4f013781e52e</webElementGuid>
+      <webElementGuid>b3b6d5c1-e213-496d-a9e3-547b6b350c30</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

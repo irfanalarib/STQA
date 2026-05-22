@@ -3,7 +3,7 @@
    <description></description>
    <name>h1_Add Shipping Cost</name>
    <tag></tag>
-   <elementGuidId>46ee8d6c-16de-4fc4-9796-577ec38d8e9d</elementGuidId>
+   <elementGuidId>c59cf047-7e6d-493d-911c-32efaff38b60</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>abee93ce-c12e-459d-8d38-0b36eaac4141</webElementGuid>
+      <webElementGuid>01006dda-62e3-4e4a-8e9a-767d6036fc9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Shipping Cost</value>
-      <webElementGuid>4abf7b54-7ba9-46e9-81f6-940482f3c3aa</webElementGuid>
+      <webElementGuid>4436805d-6e50-4d9b-832a-c6813ac7f8f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;content-header-left&quot;]/h1[1]</value>
-      <webElementGuid>556374be-e2e4-4295-9b40-08aaa3c51075</webElementGuid>
+      <webElementGuid>760124e8-3cc9-4331-8e9f-abc4d4c783bd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriber'])[1]/following::h1[1]</value>
-      <webElementGuid>8a166109-fe4b-46fd-a196-bee5da708ea8</webElementGuid>
+      <webElementGuid>f60d3511-ef81-4fb8-b4e8-a5b2e1e4f5a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media'])[1]/following::h1[1]</value>
-      <webElementGuid>7cb6ba1f-5786-450e-8141-dcff5f8ca88e</webElementGuid>
+      <webElementGuid>d04bddf6-18e0-4918-9374-e8addf73e324</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::h1[1]</value>
-      <webElementGuid>13f1ec4a-3409-423c-9991-03685ca42572</webElementGuid>
+      <webElementGuid>15344f7c-6672-4e31-8409-682fbdf1f32d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add Shipping Cost']/parent::*</value>
-      <webElementGuid>dbb7f784-5535-429b-a942-f6f099e77337</webElementGuid>
+      <webElementGuid>8d921ea0-b327-478a-9f51-b7ad411be35b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>d4d4d385-c96f-405a-801b-035aa51f5905</webElementGuid>
+      <webElementGuid>cc2e1df2-9032-41e6-bb64-350f679fa86b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Add Shipping Cost' or . = 'Add Shipping Cost')]</value>
-      <webElementGuid>8f4a88ee-7704-4881-a0fb-d7ad8c26725b</webElementGuid>
+      <webElementGuid>8577f3dd-9078-4201-b459-4fe8738dbc1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

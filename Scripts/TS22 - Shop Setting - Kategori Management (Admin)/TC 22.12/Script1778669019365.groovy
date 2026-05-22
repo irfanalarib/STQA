@@ -32,13 +32,17 @@ WebUI.setEncryptedText(findTestObject('Object Repository/TS22 - Shop Setting - K
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Login/input_Admin Panel_form1'))
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/a_Shop Settings'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/span_Shop Settings'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/a_End Level Category'))
 
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/h1_View End Level Categories'))
+
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/a_Add New'))
 
-WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/span_Select Top Level Category_select2-sele_a971b5'))
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/h1_Add End Level Category'))
+
+WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/span_Select Top Level Category'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/span_Select Mid Level Category'))
 
@@ -48,4 +52,6 @@ WebUI.setText(findTestObject('Object Repository/TS22 - Shop Setting - Kategori M
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/button_Submit'))
 
 WebUI.click(findTestObject('Object Repository/TS22 - Shop Setting - Kategori Management (Admin)/TC 22.12/Page_Admin Panel/p_End Level Category is added successfully'))
+
+WebUI.closeBrowser()
 

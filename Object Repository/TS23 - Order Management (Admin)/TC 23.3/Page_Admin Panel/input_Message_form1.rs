@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e084b25-98d9-4984-9ea8-e597ab2b52aa</webElementGuid>
+      <webElementGuid>626e146b-27c2-4d84-a103-7df7ed17e680</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>e56dbe6b-6302-4ee1-ab13-6ebfd1fcbf67</webElementGuid>
+      <webElementGuid>8f06f30b-39b1-481b-b02b-dd39c2b4193e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Send Message</value>
-      <webElementGuid>e5cdaff4-7f17-4086-92ee-f25a6289073d</webElementGuid>
+      <webElementGuid>b3302ae4-d4e9-4b4d-a75f-984d8e5820e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>form1</value>
-      <webElementGuid>77c54c36-dae9-448f-8938-7ff139312b83</webElementGuid>
+      <webElementGuid>b92a1af6-8332-46aa-b6eb-504af147b918</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;model-1&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[3]/td[2]/input[1]</value>
-      <webElementGuid>b39f8285-361f-42da-a7b1-32c8825acb3c</webElementGuid>
+      <webElementGuid>dc620368-3527-44fc-b6c2-398c1dcbe6ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='form1']</value>
-      <webElementGuid>02c6516b-5521-4906-9636-d0df330e30d4</webElementGuid>
+      <webElementGuid>594de917-bafc-4062-b794-683cf39b2653</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='model-1']/div/div/div[2]/form/table/tbody/tr[3]/td[2]/input</value>
-      <webElementGuid>0f8206e6-084b-4ec2-a212-a5ac326b03e8</webElementGuid>
+      <webElementGuid>6d0ef89f-9a28-488e-8b4e-01617dbf4ffd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[2]/input</value>
-      <webElementGuid>d1c2c6e1-84e2-4af0-ba5d-ded4343c9293</webElementGuid>
+      <webElementGuid>9c60fba8-dc87-4154-82f2-0a4dfd74cb30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'form1']</value>
-      <webElementGuid>523fdf0e-b497-4b94-94a2-88446a24fc45</webElementGuid>
+      <webElementGuid>2af4dc3a-3151-479b-af69-cf9ee7d49172</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

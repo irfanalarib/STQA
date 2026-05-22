@@ -3,15 +3,15 @@
    <description></description>
    <name>p_Top Category is added successfully</name>
    <tag></tag>
-   <elementGuidId>d945d392-97f0-4cdc-8697-eeff70d72b2e</elementGuidId>
+   <elementGuidId>fb682a27-7767-4981-9978-f53c922601f7</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>p</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>13bcb209-5e37-4f07-ba56-a9389d5e9dc8</webElementGuid>
+      <webElementGuid>d3dcfe98-795e-4f6d-802e-222110f8407a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Top Category is added successfully.</value>
-      <webElementGuid>b8e2dc2a-a868-4dd3-a3bd-e8fa933d9f2b</webElementGuid>
+      <webElementGuid>68943aa1-fb41-433c-a6a4-ac92a3156004</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fixed skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;callout callout-success&quot;]/p[1]</value>
-      <webElementGuid>358122c7-3e96-45b4-a5a9-41fe8ea14df7</webElementGuid>
+      <webElementGuid>f6222289-824d-47d7-bf14-a2f9a0713939</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
-      <webElementGuid>40a01183-f036-4b90-90e3-b5dbed162e1e</webElementGuid>
+      <webElementGuid>774e69e1-9dc8-47da-a821-ceeca81322b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Top Level Category'])[1]/following::p[1]</value>
-      <webElementGuid>a190e2e4-f436-45e7-bdb9-19c646c146e2</webElementGuid>
+      <webElementGuid>0fd53be1-a348-4b07-8fda-e690ad8b23c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[1]</value>
-      <webElementGuid>6831b717-c0b9-4409-9a9d-63ea35565062</webElementGuid>
+      <webElementGuid>595c3fcb-344c-401e-ba57-c7f19f1fafac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Top Category is added successfully.']/parent::*</value>
-      <webElementGuid>ca6f85a6-ec92-40a4-af84-a024f3c7d41e</webElementGuid>
+      <webElementGuid>9d42a164-e1a7-4954-b974-da9046a697fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>f2495a8d-0c09-4a99-8a27-fb1f5c2304a7</webElementGuid>
+      <webElementGuid>ca181222-8c98-4249-8c61-7bffa3ab4df2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Top Category is added successfully.' or . = 'Top Category is added successfully.')]</value>
-      <webElementGuid>afa63e36-2f75-47c8-98a5-7e4575753c3b</webElementGuid>
+      <webElementGuid>151e83b4-9525-46f6-bcc4-180aac734346</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
